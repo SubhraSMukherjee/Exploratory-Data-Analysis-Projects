@@ -2,7 +2,7 @@
 ---
 This repository (folder space really) collects the Author' Exploratory data Analysis(EDA) Projects
 
-EDA projects are mostly done on excel/sheets or (with some SQL aggregations), largely without any sort of statistical modelling or ML algorithms
+EDA projects are mostly done on excel/sheets (with some SQL aggregations), largely without any sort of statistical modelling or ML algorithms
 ### Structure
 ---
 Every Subfolder is an standalone project with 3 components

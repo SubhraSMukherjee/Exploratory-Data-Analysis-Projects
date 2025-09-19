@@ -1,0 +1,3672 @@
+carrier,origin_country,destination_country,clicks_travix,clicks_competitor,clicks_airlines
+AZ,Italy,Italy,596,1813,590
+FR,Italy,Italy,4458,7514,4414
+NO,Italy,Egypt,63,52,62
+W6,Italy,Italy,1173,1112,1161
+FR,Italy,Spain,2263,4835,2241
+FR,Italy,Morocco,143,313,142
+NO,Italy,Spain,23,28,23
+DX,Italy,Italy,0,139,0
+AZ,Italy,United States,170,857,168
+AZ,Italy,,0,82,0
+LA,Italy,Brazil,14,39,14
+W6,Italy,Egypt,100,231,99
+IB,Italy,Spain,174,194,172
+KM,Malta,Italy,0,73,0
+SM,Italy,Egypt,33,194,33
+BA,Italy,United States,264,420,261
+LH,Italy,United States,88,147,87
+EY,Italy,Indonesia,13,16,13
+JL,Italy,Japan,0,8,0
+W6,Italy,Morocco,44,38,44
+V7,Italy,Italy,708,669,701
+AT,Italy,Morocco,33,120,33
+AS,United States,United States,0,16,0
+TU,Tunisia,Italy,0,39,0
+FR,Italy,United Kingdom,349,618,346
+LH,Italy,,0,56,0
+KU,Italy,Philippines,2,30,2
+AZ,Italy,Tunisia,8,33,8
+FR,Italy,Germany,256,367,253
+SM,Egypt,Italy,4,32,4
+AF,Italy,Costa Rica,5,5,5
+TP,Italy,United States,12,29,12
+FR,Spain,Italy,383,483,379
+KL,Italy,United States,49,192,49
+TU,Italy,Tunisia,0,71,0
+IB,Spain,Italy,61,34,60
+LA,Peru,Peru,3,16,3
+CI,Italy,Japan,9,36,9
+IB,Italy,Senegal,2,8,2
+W6,Italy,United Arab Emirates,105,78,104
+EK,Italy,Indonesia,16,11,16
+TU,France,Tunisia,0,4,0
+AZ,Italy,India,11,11,11
+TK,Italy,Turkey,85,153,84
+EK,Italy,Australia,16,5,16
+FR,Italy,Greece,588,1163,582
+AZ,Italy,Morocco,19,70,19
+UG,Italy,Tunisia,0,8,0
+W6,Italy,Jordan,33,39,33
+W6,Italy,Albania,511,396,506
+NO,Egypt,Italy,9,4,9
+NO,Italy,Maldives,6,8,6
+U2,Italy,Spain,894,210,885
+JU,Italy,Turkey,0,8,0
+EW,Germany,Italy,69,76,68
+FR,Italy,Republic of Ireland,149,269,148
+TG,Thailand,Thailand,7,9,7
+QR,Italy,,0,10,0
+BA,United States,United States,0,1,0
+RO,Romania,Italy,0,10,0
+LA,Colombia,Colombia,10,17,10
+FR,Italy,Denmark,112,188,111
+MS,Italy,Egypt,0,44,0
+MS,Egypt,Egypt,0,24,0
+NO,Italy,United States,18,10,18
+EK,Italy,,0,8,0
+AZ,United States,Italy,6,20,6
+AT,Morocco,Italy,11,8,11
+BA,Italy,Japan,1,0,1
+AY,Italy,Japan,5,4,5
+TK,Italy,,0,30,0
+IB,Spain,France,8,2,8
+LA,Brazil,Italy,21,70,21
+NO,Spain,Italy,4,3,4
+FR,United Kingdom,Italy,102,121,101
+QR,Italy,Singapore,6,16,6
+AF,Italy,Republic of Ireland,0,0,0
+H2,Peru,Peru,0,12,0
+W6,United Arab Emirates,Italy,4,21,4
+FR,Italy,Austria,218,268,216
+AF,Italy,Brazil,10,43,10
+AZ,Tunisia,Italy,5,12,5
+TU,Italy,,0,1,0
+FR,Italy,Belgium,173,234,171
+U2,France,Italy,184,64,182
+U2,Italy,Italy,1455,211,1441
+AF,Italy,,2,24,2
+FR,Italy,Romania,89,207,88
+UA,Italy,Canada,1,13,1
+OS,Italy,Kenya,0,1,0
+PR,Philippines,Philippines,9,14,9
+LH,Italy,Spain,9,5,9
+KL,Italy,Dominican Republic,1,48,1
+BA,Italy,Mexico,7,17,7
+AZ,Italy,Brazil,4,57,4
+WS,Italy,United States,3,12,3
+EY,Italy,Australia,4,6,4
+W6,Italy,Romania,248,217,246
+PK,Pakistan,United Arab Emirates,0,0,0
+AZ,Italy,Ethiopia,0,3,0
+AZ,Italy,Algeria,3,11,3
+NO,Italy,Madagascar,10,0,10
+WY,Italy,Thailand,4,65,4
+NO,United States,Italy,1,0,1
+NO,Italy,Dominican Republic,6,1,6
+LH,Kuwait,Italy,0,2,0
+AZ,Italy,Spain,19,151,19
+TC,Tanzania,Tanzania,0,3,0
+MU,Hong Kong,,0,1,0
+VN,Vietnam,Malaysia,0,4,0
+IB,Italy,Dominican Republic,13,12,13
+NH,Italy,Japan,1,5,1
+TK,Lithuania,Italy,0,0,0
+LX,Italy,,0,28,0
+ET,Argentina,Italy,0,2,0
+AT,Italy,United States,3,3,3
+KL,Italy,El Salvador,1,1,1
+BA,Italy,,28,40,28
+UX,Spain,Spain,5,13,5
+EY,Italy,,2,0,2
+FR,Italy,Sweden,35,91,35
+W6,Italy,Hungary,191,236,189
+FR,Italy,Portugal,295,584,292
+EY,Pakistan,United Kingdom,0,0,0
+JU,Italy,Serbia,7,4,7
+FR,Netherlands,Italy,45,50,45
+AZ,Italy,Kenya,1,11,1
+YW,Italy,Germany,0,26,0
+OZ,Japan,South Korea,0,1,0
+G3,Brazil,Italy,0,17,0
+AZ,Mexico,Italy,0,0,0
+NO,Italy,Senegal,6,9,6
+EK,United States,Italy,7,2,7
+BA,Japan,Canada,0,0,0
+SQ,United Arab Emirates,Indonesia,1,2,1
+KU,Italy,Thailand,3,4,3
+CX,Indonesia,,0,0,0
+U2,Italy,Netherlands,385,57,381
+NP,Egypt,Egypt,0,1,0
+FR,Belgium,Malta,1,2,1
+TK,Italy,Kyrgyzstan,8,22,8
+CM,Panama,Colombia,1,2,1
+JU,Bosnia and Herzegovina,Italy,1,0,1
+FR,United Kingdom,Germany,2,3,2
+SV,Italy,,1,1,1
+LH,Germany,Italy,41,63,41
+SQ,Spain,Italy,14,14,14
+AZ,Italy,Mexico,0,33,0
+QV,Vietnam,Laos,0,0,0
+AH,Italy,Algeria,0,29,0
+U2,Italy,Egypt,161,50,159
+SP,Portugal,Portugal,0,3,0
+UP,United States,The Bahamas,0,1,0
+AI,India,Nepal,0,5,0
+EW,Czech Republic,Italy,11,12,11
+AT,France,Ivory Coast,0,3,0
+LH,Mexico,Italy,0,0,0
+SA,South Africa,South Africa,0,0,0
+AZ,Italy,Australia,0,3,0
+TK,Thailand,Italy,0,2,0
+SQ,Italy,,0,8,0
+FR,Belgium,Italy,46,90,46
+W6,Italy,Netherlands,24,57,24
+CA,Italy,Singapore,0,3,0
+HY,Uzbekistan,United Arab Emirates,0,0,0
+ET,Austria,,0,0,0
+TK,Bangladesh,,0,0,0
+TK,Turkey,Italy,12,23,12
+AZ,Germany,Italy,12,26,12
+AR,Argentina,,0,1,0
+BA,Italy,Canada,3,2,3
+FR,Italy,Cyprus,22,41,22
+BA,Switzerland,United States,1,1,1
+MS,Italy,Qatar,0,0,0
+FR,Germany,Italy,76,99,75
+IB,Italy,,3,6,3
+LX,Italy,Brazil,9,19,9
+LH,Italy,Mexico,0,11,0
+FR,Portugal,Portugal,18,20,18
+LH,Italy,Canada,8,13,8
+AZ,Mexico,United States,0,0,0
+VJ,Singapore,Vietnam,0,1,0
+W6,Italy,United Kingdom,158,146,156
+U2,Spain,Italy,165,27,163
+EK,Maldives,Sri Lanka,1,3,1
+FR,Portugal,Italy,57,86,56
+JU,Serbia,Italy,4,4,4
+BR,Austria,Thailand,0,1,0
+KL,Poland,Italy,3,5,3
+AF,Panama,,0,0,0
+EI,Italy,United States,25,3,25
+G3,Brazil,Brazil,0,10,0
+RJ,Italy,Qatar,1,8,1
+BA,Germany,Mexico,0,0,0
+QF,Australia,Australia,6,1,6
+UX,Italy,Spain,7,29,7
+SQ,Italy,Singapore,4,4,4
+W6,Albania,Italy,87,54,86
+EY,South Korea,,0,0,0
+W6,Italy,Montenegro,15,9,15
+BA,United States,Italy,23,10,23
+DY,Italy,Norway,0,45,0
+AF,Italy,Kenya,0,3,0
+SM,Germany,Egypt,0,0,0
+JL,Italy,,0,0,0
+FR,Italy,Hungary,137,228,136
+OM,Germany,Japan,0,1,0
+GQ,Cyprus,Italy,0,0,0
+VY,Italy,Spain,592,1003,586
+AZ,Italy,Israel,4,2,4
+IB,Italy,Colombia,21,11,21
+VN,Thailand,Vietnam,0,0,0
+AI,India,Sri Lanka,0,3,0
+KM,France,Italy,0,23,0
+BA,United States,Aruba,0,0,0
+ET,Madagascar,Italy,3,1,3
+IB,Italy,Argentina,28,22,28
+WT,Spain,Spain,0,0,0
+FR,Poland,Italy,44,52,44
+U2,Italy,United Kingdom,317,71,314
+AR,Argentina,Argentina,0,3,0
+FR,France,Netherlands,0,1,0
+CY,Egypt,Cyprus,0,0,0
+PK,United Arab Emirates,Pakistan,0,0,0
+LA,Italy,Peru,2,1,2
+RW,Philippines,Philippines,0,0,0
+AZ,Morocco,Italy,0,0,0
+EK,Italy,Mauritius,2,72,2
+LH,Albania,,0,0,0
+VZ,Thailand,Thailand,0,13,0
+AF,Spain,Tunisia,0,0,0
+AZ,United States,United States,0,0,0
+IB,Spain,Greece,0,1,0
+EY,India,Germany,0,3,0
+AR,Argentina,Uruguay,0,7,0
+LX,Brazil,Argentina,2,0,2
+TK,Italy,Qatar,5,4,5
+VA,Australia,Australia,20,19,20
+PW,Tanzania,Tanzania,0,6,0
+WY,Italy,Philippines,0,10,0
+2S,Germany,Turkey,0,2,0
+KL,Italy,,12,36,12
+RJ,Kuwait,Italy,0,2,0
+AZ,Italy,Argentina,10,70,10
+EK,Thailand,,0,0,0
+CA,Germany,,0,0,0
+EY,South Africa,Italy,0,1,0
+IB,Italy,United States,10,82,10
+VY,France,Italy,68,27,67
+IB,France,Spain,6,9,6
+BA,United States,Dominican Republic,0,0,0
+DT,Angola,Portugal,0,0,0
+EY,Oman,,1,1,1
+LA,Argentina,Italy,2,7,2
+ET,Tanzania,Italy,5,1,5
+TK,Italy,Indonesia,13,31,13
+W6,Italy,Greece,236,266,234
+AH,Italy,Ivory Coast,0,1,0
+LA,Italy,,0,4,0
+BA,Germany,Japan,0,0,0
+SZ,Tajikistan,Uzbekistan,0,0,0
+AZ,United States,Dominican Republic,0,0,0
+AM,United States,Mexico,0,2,0
+W6,Poland,Malta,1,4,1
+IB,Spain,Spain,19,12,19
+AZ,Italy,Belgium,24,47,24
+W6,Italy,Spain,304,539,301
+AI,Italy,India,0,29,0
+KM,Malta,France,0,3,0
+AF,France,Brazil,1,3,1
+TU,Italy,France,0,1,0
+AZ,Brazil,Italy,6,23,6
+TK,Italy,Thailand,11,13,11
+LH,Canada,United States,0,0,0
+WY,Italy,Malaysia,1,13,1
+AZ,Italy,Maldives,0,1,0
+UG,Tunisia,Tunisia,0,0,0
+TK,Spain,United Arab Emirates,0,1,0
+AZ,Italy,Egypt,5,51,5
+UX,Italy,Paraguay,0,5,0
+V7,Italy,Greece,383,431,379
+U2,France,Spain,12,7,12
+NO,Italy,Mexico,6,1,6
+PU,Spain,Colombia,0,1,0
+AZ,Italy,El Salvador,0,0,0
+MH,Malaysia,,0,0,0
+FR,Italy,Bulgaria,37,89,37
+U2,Italy,Germany,86,5,85
+GQ,Greece,Greece,23,39,23
+BR,Italy,,0,1,0
+QR,Vietnam,Italy,0,0,0
+SK,United States,Italy,0,0,0
+TP,Italy,,0,22,0
+BJ,France,Tunisia,0,8,0
+TK,Azerbaijan,,0,0,0
+KU,United Arab Emirates,Italy,2,2,2
+FR,Italy,Jordan,13,46,13
+EY,Italy,Singapore,7,8,7
+AZ,Italy,Canada,0,7,0
+UG,Tunisia,Italy,0,7,0
+BA,Canada,French Polynesia,0,0,0
+AZ,Trinidad and Tobago,Belize,0,0,0
+TP,United States,Italy,4,6,4
+AF,Italy,United States,82,138,81
+WY,Sri Lanka,Italy,0,0,0
+AZ,United Kingdom,United States,0,0,0
+RO,Israel,Moldova,0,0,0
+CA,China,Italy,1,3,1
+LX,Switzerland,,0,1,0
+UX,Colombia,Italy,7,18,7
+LH,Switzerland,,0,0,0
+KU,Italy,India,0,4,0
+UP,The Bahamas,United States,0,2,0
+TK,Italy,Egypt,4,5,4
+SQ,Germany,United States,1,0,1
+AI,Italy,Thailand,0,31,0
+LH,Italy,Republic of Ireland,11,5,11
+U2,Italy,Greece,673,114,666
+JL,Australia,Italy,0,0,0
+EK,Malaysia,Italy,0,0,0
+IB,Italy,Chile,4,7,4
+F2,Kenya,Kenya,0,0,0
+MH,Italy,Malaysia,0,31,0
+JL,South Korea,Japan,0,4,0
+TK,Italy,United States,13,10,13
+KL,Canada,Italy,0,1,0
+LX,Italy,United States,19,59,19
+IB,Italy,Peru,27,23,27
+AR,Italy,Argentina,0,68,0
+LH,Germany,United States,1,3,1
+B6,United States,United States,0,16,0
+U2,Italy,France,770,126,762
+TK,Italy,Senegal,0,7,0
+J9,Egypt,Saudi Arabia,1,0,1
+CX,Italy,Philippines,1,8,1
+NO,Italy,Iceland,2,0,2
+AF,France,United States,1,1,1
+AH,Algeria,Italy,0,1,0
+VY,France,Egypt,1,2,1
+QR,Italy,United Arab Emirates,2,0,2
+IB,France,Senegal,0,1,0
+BA,Spain,,1,0,1
+AY,Greece,Italy,1,0,1
+OS,Italy,Spain,0,2,0
+IB,Morocco,United States,1,0,1
+TK,Mali,Italy,0,1,0
+HV,Italy,France,42,78,42
+EW,Italy,Germany,108,73,107
+AF,Italy,Spain,0,2,0
+FR,United Kingdom,Malta,0,1,0
+VY,Netherlands,Spain,4,1,4
+BY,Greece,United Kingdom,1,0,1
+AF,Slovenia,France,1,0,1
+U2,Portugal,Morocco,2,0,2
+FR,Austria,,0,1,0
+KM,Italy,Germany,0,3,0
+W6,Hungary,Malta,1,0,1
+FR,Italy,Maldives,0,1,0
+FR,Republic of Ireland,United Kingdom,2,2,2
+2B,Albania,Italy,0,11,0
+AF,Germany,Brazil,0,1,0
+AZ,Italy,Indonesia,0,2,0
+A3,Cyprus,Italy,0,2,0
+LA,Brazil,Brazil,5,14,5
+LY,Italy,United States,0,6,0
+VS,France,United States,1,1,1
+KM,Italy,France,0,3,0
+AA,Dominican Republic,United States,3,0,3
+V7,France,France,3,0,3
+VY,Spain,Greece,3,0,3
+6E,India,Germany,0,1,0
+FR,Malta,Italy,26,47,26
+DY,Norway,Italy,0,19,0
+AZ,Italy,Jordan,1,12,1
+U2,Italy,Iceland,26,4,26
+TK,United States,Italy,3,7,3
+S4,Canada,Italy,0,2,0
+TP,Canada,Italy,0,2,0
+S4,Italy,Portugal,0,1,0
+AZ,Italy,Hungary,0,1,0
+HV,Netherlands,Italy,22,10,22
+AY,Finland,Italy,12,2,12
+AC,Italy,Canada,8,58,8
+BR,Indonesia,Italy,0,7,0
+AF,Spain,Italy,3,10,3
+9C,China,Thailand,1,0,1
+AZ,Italy,Dominican Republic,0,8,0
+EK,Italy,South Korea,1,3,1
+LH,Germany,,0,4,0
+FR,Belgium,France,1,1,1
+NO,India,United States,0,1,0
+OS,Italy,Croatia,0,3,0
+W6,Spain,Poland,1,0,1
+U2,Italy,Portugal,158,42,156
+V7,Spain,Spain,3,4,3
+KL,Italy,Denmark,6,1,6
+TK,Italy,Maldives,5,3,5
+SQ,Italy,Vietnam,3,0,3
+KL,United States,Aruba,0,2,0
+BA,Italy,Kenya,0,1,0
+FR,Republic of Ireland,France,3,0,3
+EY,Italy,South Africa,0,1,0
+FR,Italy,Brazil,0,1,0
+AY,Finland,United Kingdom,1,0,1
+CX,Australia,Italy,0,1,0
+LH,Italy,Guatemala,0,1,0
+OS,Spain,Belgium,1,0,1
+KM,Belgium,Malta,0,3,0
+XZ,Italy,United Kingdom,0,1,0
+NO,Italy,Mauritius,1,0,1
+LO,Poland,Bahrain,0,1,0
+LX,Italy,Republic of Ireland,5,0,5
+EY,Indonesia,Italy,2,4,2
+EK,United States,Switzerland,2,0,2
+UX,Argentina,Spain,0,2,0
+AF,Italy,Jamaica,0,1,0
+FR,Italy,Azerbaijan,0,1,0
+LA,Colombia,Ecuador,1,0,1
+DE,Germany,United States,1,2,1
+UA,Italy,United States,61,41,60
+U2,Italy,Luxembourg,25,5,25
+OS,Italy,Israel,0,1,0
+FR,Portugal,Germany,1,0,1
+U2,Albania,United Kingdom,1,0,1
+FR,Denmark,Austria,1,0,1
+XK,Italy,France,0,1,0
+BQ,Germany,Italy,1,0,1
+MS,Italy,Japan,0,2,0
+FR,Greece,Belgium,0,2,0
+JU,Italy,Portugal,0,1,0
+FR,Italy,Czech Republic,120,229,119
+W6,Italy,Israel,31,21,31
+TK,United States,Turkey,1,2,1
+FR,United Kingdom,,0,1,0
+U2,Italy,Romania,0,4,0
+AT,Spain,Morocco,1,1,1
+5J,Singapore,United Arab Emirates,0,1,0
+V7,Italy,Argentina,0,1,0
+AY,Italy,United States,28,290,28
+AZ,Italy,Vietnam,2,3,2
+G9,Saudi Arabia,Sri Lanka,1,0,1
+LO,Italy,Canada,0,6,0
+BA,Italy,Chile,1,0,1
+AF,Italy,Australia,0,10,0
+AC,Italy,Martinique,0,1,0
+OB,Bolivia,Bolivia,0,2,0
+QR,Egypt,Maldives,0,1,0
+ID,Singapore,Indonesia,0,4,0
+OS,Albania,,0,1,0
+Y4,United States,Mexico,0,3,0
+QR,Germany,Thailand,1,0,1
+SK,Norway,Denmark,1,2,1
+LX,United States,Slovenia,1,0,1
+LX,Belgium,Italy,1,0,1
+KL,Portugal,United States,0,1,0
+KL,Italy,Greece,1,0,1
+KM,Israel,Malta,0,1,0
+HV,Sweden,France,1,0,1
+PD,Canada,Italy,0,1,0
+YT,Nepal,Nepal,1,0,1
+AA,United States,Dominican Republic,4,0,4
+CI,Vietnam,Italy,1,6,1
+FR,Malta,Greece,3,1,3
+W6,Poland,Norway,3,0,3
+AK,Malaysia,Singapore,0,2,0
+CA,Italy,Australia,0,2,0
+AF,Italy,Hong Kong,0,1,0
+9C,China,Hong Kong,0,1,0
+KL,Spain,United States,1,0,1
+U2,Germany,Netherlands,1,0,1
+RS,South Korea,Japan,0,2,0
+LH,Romania,Finland,1,0,1
+EN,Italy,China,0,1,0
+PR,Indonesia,Australia,1,0,1
+TG,Switzerland,Thailand,1,0,1
+W6,Poland,Italy,16,7,16
+LO,Italy,Armenia,7,0,7
+AF,Italy,Panama,5,0,5
+UU,France,Réunion,0,1,0
+AZ,Italy,Norway,0,1,0
+IB,Peru,Italy,1,0,1
+SK,Sweden,Denmark,2,2,2
+UX,Spain,Uruguay,1,0,1
+KL,Brazil,France,1,0,1
+TK,Greece,Italy,1,0,1
+3M,United States,United States,0,1,0
+WM,Sint Maarten,Italy,0,1,0
+CI,Italy,Philippines,1,0,1
+TB,Italy,Morocco,0,7,0
+TS,Canada,Italy,0,1,0
+SV,Saudi Arabia,Egypt,1,0,1
+QR,France,Australia,1,0,1
+FR,Norway,Lithuania,0,2,0
+TR,Indonesia,Italy,0,1,0
+BA,United States,Belgium,1,0,1
+IB,Morocco,Italy,1,1,1
+BX,Japan,South Korea,0,1,0
+W6,Jordan,France,0,1,0
+AZ,Italy,China,0,56,0
+AV,Argentina,Italy,0,1,0
+QR,Philippines,United Kingdom,3,2,3
+SK,Italy,China,0,2,0
+TK,Italy,Tajikistan,0,2,0
+WY,Italy,,0,2,0
+LS,Italy,,0,5,0
+LO,South Korea,Italy,0,1,0
+U2,Belgium,Tunisia,0,1,0
+AC,United States,Italy,1,0,1
+AZ,Italy,Senegal,0,1,0
+LH,Italy,Bangladesh,0,1,0
+A3,Netherlands,Italy,0,1,0
+LS,United Kingdom,Italy,11,1,11
+TS,Canada,Dominican Republic,0,1,0
+U2,France,Germany,2,0,2
+TU,Tunisia,Spain,0,3,0
+N0,Germany,United States,1,0,1
+SV,Italy,United Arab Emirates,0,2,0
+W6,Spain,,0,1,0
+6E,Italy,,0,2,0
+W6,Germany,,0,1,0
+JU,Albania,Italy,0,1,0
+JU,Italy,Malta,0,3,0
+U2,United Kingdom,Netherlands,4,0,4
+AA,Spain,Cuba,1,0,1
+CX,Italy,,0,2,0
+CA,Vietnam,Italy,0,1,0
+AF,Italy,Faroe Islands,0,1,0
+U2,Netherlands,Cyprus,0,1,0
+TP,Senegal,Italy,2,8,2
+LX,Costa Rica,Italy,1,0,1
+JU,Italy,Albania,2,0,2
+IB,United Kingdom,United States,0,3,0
+PC,Italy,Qatar,0,3,0
+LH,Germany,Romania,0,1,0
+UX,Italy,Dominican Republic,11,30,11
+PC,Iraq,Italy,0,2,0
+SQ,Australia,Italy,6,5,6
+DL,Mexico,Italy,2,0,2
+W6,Lithuania,Italy,4,4,4
+WN,United States,United States,0,9,0
+EK,Italy,Vietnam,1,0,1
+LH,Italy,China,0,20,0
+A3,Greece,Italy,22,23,22
+AZ,Italy,Bulgaria,0,5,0
+LA,Italy,Chile,6,12,6
+LH,United States,Mexico,0,4,0
+AY,Italy,Lithuania,3,1,3
+HV,France,Portugal,2,0,2
+MS,Jordan,Morocco,0,6,0
+CM,Bolivia,Ecuador,1,0,1
+IB,Italy,Mexico,4,10,4
+TP,Italy,Spain,1,17,1
+FR,Italy,Mexico,0,6,0
+LS,Italy,United Kingdom,31,18,31
+FZ,United Arab Emirates,Italy,1,7,1
+HC,Senegal,Canada,0,1,0
+LH,Italy,Costa Rica,0,5,0
+EK,Italy,Pakistan,0,3,0
+LH,Italy,Denmark,4,2,4
+RJ,Jordan,Egypt,1,1,1
+SK,Sweden,Finland,0,2,0
+AA,Spain,United States,1,0,1
+PC,Turkey,Germany,1,0,1
+MH,Malaysia,Malaysia,6,5,6
+BR,Germany,Japan,0,2,0
+KM,Italy,Greece,0,9,0
+TK,Italy,South Africa,7,6,7
+LH,Italy,India,7,7,7
+U2,Italy,Thailand,3,1,3
+W6,Italy,Japan,0,6,0
+AY,Finland,Netherlands,1,0,1
+N0,United States,France,2,2,2
+LS,Portugal,Italy,0,1,0
+LO,Italy,Thailand,0,1,0
+TK,Nigeria,Canada,0,1,0
+U2,United Kingdom,Italy,78,17,77
+LX,Switzerland,United States,4,0,4
+FR,Italy,Saudi Arabia,0,5,0
+VY,Italy,Chile,1,1,1
+DE,Croatia,Germany,0,4,0
+W6,Italy,Oman,0,1,0
+AR,Argentina,Brazil,0,2,0
+EW,Germany,Germany,2,2,2
+MS,Italy,United Arab Emirates,0,3,0
+5J,Philippines,Philippines,2,6,2
+TP,Italy,Brazil,26,119,26
+EY,Singapore,Turkey,1,0,1
+SG,India,India,1,1,1
+TK,Italy,Pakistan,0,4,0
+"",Italy,Argentina,1,0,1
+AM,Colombia,Italy,0,4,0
+W6,Italy,Switzerland,0,1,0
+W6,Croatia,Italy,0,1,0
+V7,Italy,Germany,2,1,2
+OS,Croatia,Italy,1,0,1
+UX,Spain,Honduras,0,1,0
+LX,France,Switzerland,1,0,1
+F9,United States,Mexico,0,1,0
+L9,Italy,Italy,0,19,0
+QR,Switzerland,Namibia,0,5,0
+TK,Iran,Italy,4,1,4
+EK,Italy,Bangladesh,0,3,0
+BA,Italy,Brazil,2,3,2
+SK,Belgium,Sweden,0,4,0
+LA,Colombia,Brazil,0,1,0
+FR,Austria,Greece,0,3,0
+U2,Iceland,Italy,2,0,2
+LH,United States,Albania,1,0,1
+LH,Italy,Maldives,0,2,0
+AF,Italy,French Polynesia,0,2,0
+IB,Chile,Italy,1,0,1
+6E,Italy,Maldives,0,1,0
+IN,Indonesia,Indonesia,0,1,0
+LA,Brazil,Romania,0,1,0
+KU,Pakistan,Italy,1,0,1
+AY,Italy,India,2,1,2
+HC,Italy,Senegal,0,11,0
+AZ,Albania,United States,2,0,2
+TK,Lebanon,Italy,6,0,6
+BF,United States,Italy,0,5,0
+5F,Italy,Armenia,0,1,0
+N0,Italy,Canada,0,1,0
+BZ,Italy,Israel,2,1,2
+KE,Italy,South Korea,11,9,11
+PC,Italy,Georgia,1,4,1
+OS,Italy,Netherlands,1,0,1
+OD,Malaysia,Indonesia,0,1,0
+FR,Lithuania,Poland,0,1,0
+PC,Italy,Kazakhstan,1,2,1
+"",Dominican Republic,Panama,0,1,0
+OS,Italy,Iran,2,0,2
+IB,Spain,Mexico,1,0,1
+AZ,Italy,France,20,92,20
+U2,Netherlands,Italy,70,14,69
+ZB,Italy,Albania,0,24,0
+FR,Cyprus,Italy,4,5,4
+AY,Italy,Thailand,3,2,3
+FR,Italy,Montenegro,0,3,0
+CA,Italy,Philippines,0,1,0
+FN,South Africa,Zimbabwe,0,2,0
+DL,Canada,Italy,2,0,2
+KL,Spain,Thailand,1,0,1
+TK,Moldova,Turkey,0,2,0
+U2,Italy,India,0,1,0
+XZ,Italy,Albania,15,0,15
+W6,Italy,Estonia,9,5,9
+BA,Mexico,Italy,3,14,3
+LA,Italy,Argentina,0,5,0
+LX,Italy,Norway,0,8,0
+BA,Italy,China,1,2,1
+W6,Italy,Denmark,0,6,0
+TK,Italy,Cameroon,0,3,0
+AZ,Italy,South Korea,0,1,0
+CA,Italy,New Zealand,0,1,0
+ET,Ethiopia,Israel,1,0,1
+FR,Italy,Pakistan,0,6,0
+AA,United States,The Bahamas,5,0,5
+F3,Egypt,Saudi Arabia,0,1,0
+NE,Egypt,Egypt,0,1,0
+SK,Italy,Laos,0,1,0
+FR,Greece,France,0,3,0
+EK,Belgium,Maldives,0,1,0
+AZ,Italy,Denmark,0,1,0
+AR,Spain,Argentina,0,18,0
+EI,Italy,Canada,0,1,0
+S4,Portugal,Italy,1,0,1
+TK,Sri Lanka,Italy,0,1,0
+LO,Italy,United States,0,1,0
+W6,Poland,Spain,1,0,1
+VJ,Vietnam,South Korea,0,1,0
+AK,Indonesia,Malaysia,0,1,0
+AF,Portugal,France,1,0,1
+AF,United Kingdom,Italy,2,0,2
+W2,Greece,Italy,0,2,0
+W6,Italy,Bulgaria,36,57,36
+AV,Brazil,Spain,7,0,7
+SQ,Italy,Thailand,9,19,9
+A3,Cyprus,Albania,2,0,2
+SV,Italy,Bangladesh,0,1,0
+VY,United Kingdom,Spain,0,1,0
+CI,Italy,Taiwan,2,3,2
+Y4,Mexico,Mexico,0,5,0
+AF,France,Guadeloupe,0,2,0
+W6,Italy,Kazakhstan,0,1,0
+EK,Philippines,Italy,0,7,0
+TK,Republic of Macedonia,Azerbaijan,0,1,0
+B6,United States,Barbados,0,1,0
+SQ,Vietnam,Italy,0,1,0
+HV,Israel,France,0,1,0
+VY,Italy,Greece,12,56,12
+LX,Italy,Indonesia,0,3,0
+FR,Denmark,Italy,18,23,18
+ET,Italy,,0,3,0
+QR,Switzerland,Thailand,2,1,2
+LA,Brazil,United Kingdom,1,0,1
+WS,United Kingdom,United States,0,1,0
+UA,United States,Netherlands,0,1,0
+OU,Croatia,Croatia,2,0,2
+MK,Madagascar,Mauritius,0,1,0
+PU,Venezuela,Spain,0,1,0
+5F,Moldova,Italy,0,19,0
+OS,Austria,India,0,1,0
+LH,Italy,Argentina,4,3,4
+AA,Mexico,United States,1,0,1
+CZ,Italy,Brazil,0,1,0
+FB,Bulgaria,Italy,0,1,0
+AF,Greece,Spain,0,1,0
+OS,Italy,Colombia,0,1,0
+EY,Saudi Arabia,Indonesia,1,0,1
+W6,Bulgaria,Italy,26,26,26
+SV,Italy,Thailand,11,47,11
+FA,South Africa,South Africa,0,3,0
+SN,Belgium,Italy,28,28,28
+4Y,Germany,Spain,0,2,0
+LH,Greece,Italy,2,3,2
+TK,Italy,Kenya,4,19,4
+W6,Armenia,Italy,14,4,14
+HV,France,Tunisia,0,3,0
+EK,Vietnam,Netherlands,1,0,1
+TK,Italy,Guinea,0,2,0
+B0,Italy,United States,0,2,0
+B2,Belarus,Turkey,0,1,0
+AA,Italy,Mexico,3,0,3
+MS,Italy,Kenya,0,7,0
+BS,Bangladesh,Bangladesh,0,3,0
+EK,Italy,Maldives,5,7,5
+U2,Germany,Croatia,1,0,1
+SK,Spain,Italy,4,1,4
+VB,United States,Mexico,0,1,0
+FR,Austria,Bulgaria,1,0,1
+CI,Italy,Australia,1,4,1
+AZ,Italy,Czech Republic,0,1,0
+FR,Denmark,Poland,1,0,1
+VY,Malta,France,0,1,0
+VT,French Polynesia,French Polynesia,0,3,0
+DL,Canada,United States,1,0,1
+BR,Netherlands,Thailand,0,1,0
+5W,Uzbekistan,Italy,0,3,0
+NH,Japan,United States,0,2,0
+KL,Italy,Mexico,0,10,0
+RJ,Italy,Thailand,9,3,9
+NO,Senegal,Italy,8,1,8
+OV,United Arab Emirates,Sri Lanka,0,2,0
+FR,Italy,Thailand,0,6,0
+PC,Italy,Egypt,2,6,2
+LX,Italy,Cambodia,0,2,0
+AF,Italy,Saint Lucia,0,1,0
+FR,Spain,Austria,0,1,0
+QR,Germany,Pakistan,0,1,0
+U2,United Kingdom,Greece,2,0,2
+T7,France,Italy,0,3,0
+AF,United Arab Emirates,Italy,0,1,0
+W6,Italy,France,118,111,117
+OS,Italy,Montenegro,4,3,4
+TK,Spain,Pakistan,0,1,0
+OS,Romania,Italy,2,4,2
+FR,Croatia,Greece,1,5,1
+AK,Malaysia,Indonesia,0,7,0
+W6,Romania,Spain,1,2,1
+KL,Italy,Czech Republic,4,0,4
+LA,Argentina,Spain,1,3,1
+LH,Poland,Italy,2,0,2
+LX,Italy,Dominican Republic,1,0,1
+JT,Indonesia,Vietnam,0,1,0
+BJ,Tunisia,Germany,0,1,0
+U2,Denmark,France,1,0,1
+UX,Germany,Argentina,0,1,0
+W6,Italy,Thailand,0,8,0
+LX,Italy,France,8,5,8
+SM,Italy,,0,11,0
+ET,Italy,Ethiopia,1,2,1
+FR,Republic of Ireland,Austria,0,1,0
+FZ,Italy,Thailand,1,2,1
+AY,France,South Korea,2,1,2
+W6,Lithuania,United Kingdom,0,2,0
+AF,Italy,Lebanon,0,1,0
+TK,Pakistan,Italy,0,1,0
+AR,Spain,,0,1,0
+AF,United Kingdom,France,2,2,2
+W6,Germany,Italy,3,11,3
+AC,Italy,Chile,2,1,2
+PC,Spain,Egypt,0,1,0
+VJ,Vietnam,United Arab Emirates,0,5,0
+AK,Vietnam,Greece,0,1,0
+AH,Senegal,Italy,0,3,0
+KM,Italy,,0,3,0
+FR,Malta,Hungary,0,1,0
+B9,Iran,United Arab Emirates,0,1,0
+TK,Italy,Eritrea,0,1,0
+FR,Italy,Bangladesh,0,2,0
+QR,Switzerland,Indonesia,1,0,1
+PC,Iraq,Turkey,2,0,2
+KL,Portugal,Italy,4,2,4
+OS,Italy,Egypt,8,10,8
+FR,Bulgaria,Italy,12,9,12
+AF,Italy,Czech Republic,3,3,3
+LQ,Cambodia,Thailand,0,1,0
+HY,Italy,Uzbekistan,0,3,0
+MU,Singapore,China,0,1,0
+XZ,Italy,United Arab Emirates,0,1,0
+NH,Italy,,0,2,0
+TR,Greece,Indonesia,0,2,0
+U2,Luxembourg,Portugal,1,0,1
+F9,Dominican Republic,United States,0,1,0
+LX,Egypt,Italy,1,0,1
+W6,Romania,Belgium,7,0,7
+AZ,Switzerland,Italy,3,9,3
+EK,United Kingdom,Kenya,3,0,3
+RO,Egypt,Italy,0,2,0
+AV,Costa Rica,Colombia,7,0,7
+SK,Sweden,Norway,0,2,0
+AI,Italy,Singapore,0,1,0
+LX,Italy,Germany,6,5,6
+PC,Italy,Oman,0,1,0
+UA,Mexico,Italy,2,3,2
+LA,Argentina,New Zealand,0,1,0
+LO,Italy,Estonia,0,1,0
+FR,Italy,Cambodia,0,1,0
+TP,Italy,Portugal,72,156,71
+VY,Italy,,0,11,0
+UX,Italy,Peru,14,30,14
+LX,Italy,Spain,5,8,5
+VY,France,Portugal,2,3,2
+RP,Romania,Hungary,0,1,0
+GL,Greenland,Italy,0,1,0
+AK,Vietnam,Malaysia,0,3,0
+FR,Germany,Greece,0,3,0
+KL,Spain,Italy,6,0,6
+AF,Finland,Tunisia,0,1,0
+PC,Spain,United Arab Emirates,0,2,0
+SN,Belgium,Austria,1,0,1
+W6,Austria,United Arab Emirates,1,1,1
+KE,Italy,Australia,0,2,0
+AZ,Italy,Switzerland,5,23,5
+OS,Italy,United Arab Emirates,0,1,0
+AM,Spain,Cuba,0,1,0
+PC,United Kingdom,Turkey,0,1,0
+TK,Italy,Mali,0,2,0
+XJ,Thailand,South Korea,0,1,0
+KM,Italy,Austria,0,1,0
+HV,France,France,1,0,1
+U2,France,France,18,0,18
+CA,Italy,South Korea,0,9,0
+IB,Italy,Morocco,2,3,2
+TS,Canada,,0,1,0
+KL,Hungary,Netherlands,1,1,1
+WS,Italy,,0,1,0
+AZ,Belgium,India,0,1,0
+PC,Sweden,Morocco,1,0,1
+FR,Croatia,Italy,11,10,11
+LH,Spain,Italy,8,7,8
+BT,Italy,United Arab Emirates,1,4,1
+AZ,Italy,Philippines,0,4,0
+EK,Indonesia,Italy,1,0,1
+W6,Hungary,Greece,1,0,1
+W6,Morocco,Italy,5,0,5
+LX,Italy,Hong Kong,0,2,0
+TP,France,Canada,0,1,0
+AT,Italy,,0,1,0
+FZ,Italy,Pakistan,0,2,0
+FR,Spain,Portugal,6,7,6
+NO,Cuba,Italy,8,6,8
+VY,Italy,Netherlands,11,9,11
+TP,Brazil,Belgium,0,1,0
+5J,Philippines,United Arab Emirates,2,1,2
+LG,Italy,Luxembourg,10,7,10
+W6,Italy,Philippines,0,5,0
+LO,Italy,Turkey,0,2,0
+TP,Portugal,United States,1,0,1
+U2,United Kingdom,Spain,1,0,1
+DL,Germany,,1,0,1
+LS,Spain,United Kingdom,1,1,1
+7C,South Korea,Japan,0,4,0
+KL,Nigeria,Germany,0,4,0
+PC,Greece,Turkey,2,0,2
+SN,Belgium,United Kingdom,0,3,0
+I2,Spain,Italy,9,3,9
+LH,Italy,Luxembourg,7,1,7
+RC,Denmark,Faroe Islands,0,1,0
+WE,Thailand,Thailand,6,1,6
+2W,Spain,Cuba,0,10,0
+FR,Republic of Ireland,Albania,0,2,0
+PC,Czech Republic,Turkey,0,1,0
+BT,Lithuania,Germany,1,0,1
+CY,Cyprus,Italy,1,2,1
+AC,Switzerland,Canada,0,1,0
+TP,Switzerland,,0,1,0
+VY,Morocco,Italy,0,1,0
+DL,Cuba,United States,1,0,1
+W6,Czech Republic,Italy,66,42,65
+EI,France,Republic of Ireland,2,5,2
+TP,Brazil,Portugal,0,1,0
+QR,France,South Africa,1,6,1
+LX,Mexico,Italy,0,1,0
+W6,Hungary,Azerbaijan,5,2,5
+AV,Brazil,United States,2,0,2
+RJ,Thailand,Netherlands,0,1,0
+TB,Dominican Republic,Italy,0,2,0
+AR,Italy,Paraguay,0,1,0
+CX,Malaysia,Italy,1,0,1
+EY,Italy,Bangladesh,0,1,0
+GF,India,Italy,0,3,0
+FI,Iceland,United Kingdom,0,1,0
+AI,Italy,Japan,0,3,0
+W6,Italy,Republic of Ireland,0,2,0
+LH,Netherlands,Croatia,1,0,1
+AF,Republic of Ireland,France,1,0,1
+KL,Germany,Brazil,1,0,1
+SQ,Italy,China,0,1,0
+EK,United Arab Emirates,Mauritius,1,1,1
+MS,Sudan,Lebanon,0,4,0
+NO,Italy,Canada,1,3,1
+SN,United Kingdom,Mexico,0,1,0
+AA,United States,Cuba,1,0,1
+HF,Niger,Ivory Coast,0,1,0
+TK,Singapore,Italy,1,4,1
+LX,Italy,Maldives,2,0,2
+NO,Dominican Republic,Italy,2,2,2
+EN,Italy,Brazil,0,1,0
+TK,United States,France,0,1,0
+QR,Qatar,Saudi Arabia,1,0,1
+KL,United States,Italy,7,1,7
+KU,Philippines,Italy,0,3,0
+W6,Italy,Azerbaijan,2,0,2
+U2,Italy,Cape Verde,0,1,0
+4Z,South Africa,Madagascar,0,1,0
+4Z,South Africa,South Africa,1,0,1
+FR,Jordan,Luxembourg,0,1,0
+CM,Sint Maarten,,0,1,0
+5J,Philippines,Thailand,1,0,1
+CM,Nicaragua,Italy,0,2,0
+AF,Italy,Japan,12,8,12
+LH,Italy,El Salvador,0,6,0
+IB,Italy,Ecuador,3,2,3
+UX,Colombia,Spain,0,4,0
+LO,Italy,Georgia,1,0,1
+LH,Canada,Italy,0,1,0
+FI,United States,Italy,2,3,2
+W9,United Kingdom,Albania,2,0,2
+W6,Finland,Italy,3,0,3
+LH,Greece,Germany,1,0,1
+KL,United Kingdom,Netherlands,1,0,1
+VY,Spain,Netherlands,1,3,1
+G9,Italy,India,21,17,21
+TU,Senegal,Italy,0,5,0
+LH,Argentina,Italy,0,5,0
+AT,Belgium,Morocco,0,1,0
+KM,Italy,Italy,0,4,0
+OA,Greece,Cyprus,2,0,2
+IB,Switzerland,Spain,2,0,2
+LH,Italy,Romania,1,2,1
+WG,Canada,Mexico,0,1,0
+U2,Italy,Malta,38,14,38
+LH,Italy,Japan,13,34,13
+CX,Italy,Australia,0,3,0
+SV,Italy,Malaysia,3,5,3
+JU,Italy,,0,3,0
+IB,Spain,Thailand,0,1,0
+TR,Australia,,0,2,0
+4Y,Germany,Greece,0,1,0
+DY,Denmark,Spain,0,1,0
+FR,Belgium,Romania,0,1,0
+DL,United States,United States,46,0,46
+SV,Italy,India,2,6,2
+VY,Italy,Portugal,3,18,3
+AK,Malaysia,Malaysia,0,16,0
+EN,Italy,United States,0,14,0
+U2,Portugal,France,4,0,4
+LH,France,Germany,4,0,4
+AI,Australia,Italy,0,2,0
+VJ,Japan,Cambodia,0,3,0
+J2,Italy,Azerbaijan,0,2,0
+LH,Netherlands,Italy,3,1,3
+JQ,Thailand,Singapore,1,1,1
+AF,Italy,South Korea,0,3,0
+H4,Moldova,Italy,0,2,0
+B6,United States,Italy,0,2,0
+MS,Italy,Lebanon,0,3,0
+FB,Bulgaria,Bulgaria,0,1,0
+QR,Singapore,Italy,1,0,1
+LO,Poland,Poland,0,1,0
+SY,United States,United States,0,3,0
+HV,France,Senegal,1,0,1
+SN,Italy,Belgium,47,60,47
+UX,Italy,Cuba,28,64,28
+FI,Italy,Iceland,5,12,5
+BA,Italy,Australia,4,3,4
+LO,Italy,South Korea,0,20,0
+OS,Thailand,Italy,3,0,3
+AT,Tunisia,Morocco,2,0,2
+AT,Ghana,Spain,0,1,0
+TP,Switzerland,Portugal,0,1,0
+NO,Italy,Kenya,1,0,1
+V7,Italy,Denmark,3,3,3
+W6,Italy,Cyprus,14,18,14
+LX,Italy,United Arab Emirates,4,6,4
+A3,Greece,Netherlands,1,7,1
+W6,Spain,Hungary,2,1,2
+FR,Italy,Singapore,0,1,0
+VY,Italy,Cape Verde,0,1,0
+U2,Italy,Malaysia,0,2,0
+MS,Saudi Arabia,Egypt,0,2,0
+KL,Italy,Finland,1,0,1
+LO,Italy,,0,1,0
+W6,Italy,Czech Republic,137,121,136
+KL,Italy,Netherlands,90,134,89
+OA,Greece,Greece,11,9,11
+LH,Italy,United Kingdom,11,8,11
+SK,Italy,Poland,1,1,1
+KL,Italy,Chile,0,1,0
+DY,Norway,Spain,0,1,0
+GF,Thailand,Italy,0,2,0
+XZ,Italy,Netherlands,0,3,0
+DE,Cuba,Italy,1,1,1
+LX,Italy,Philippines,0,3,0
+XZ,Italy,Morocco,0,2,0
+TP,Italy,Angola,1,0,1
+WY,Italy,Sri Lanka,0,5,0
+LH,France,Mauritius,0,1,0
+VY,Spain,Italy,154,182,152
+AF,Italy,Chile,5,1,5
+U2,France,Morocco,4,4,4
+U8,Italy,Israel,0,4,0
+KL,Italy,Germany,6,3,6
+AK,Singapore,,0,3,0
+QR,Italy,Sri Lanka,1,7,1
+W6,Germany,Bulgaria,0,1,0
+BA,Italy,Vietnam,0,3,0
+CZ,Thailand,Australia,0,1,0
+CX,Cambodia,Italy,1,0,1
+VY,Belgium,Spain,1,0,1
+BA,Brazil,Italy,0,1,0
+TK,India,Italy,0,1,0
+AY,Germany,South Korea,2,0,2
+LJ,South Korea,Japan,0,6,0
+SV,Italy,South Korea,3,0,3
+WS,Canada,Italy,0,2,0
+AT,Italy,Nigeria,0,1,0
+LH,Italy,Georgia,7,0,7
+OW,Kenya,Kenya,8,4,8
+V7,Italy,United Kingdom,0,1,0
+LH,Italy,France,6,8,6
+QR,Germany,Philippines,1,0,1
+FR,Denmark,Republic of Ireland,2,1,2
+IB,Italy,Italy,0,3,0
+AV,Peru,Ecuador,1,0,1
+LX,Slovenia,United States,1,0,1
+FR,Italy,Senegal,0,1,0
+SK,Finland,Italy,0,1,0
+AR,Argentina,Italy,0,12,0
+LX,Italy,South Africa,8,3,8
+OS,Italy,Romania,1,3,1
+A3,Italy,Georgia,0,2,0
+TK,Croatia,Italy,0,1,0
+AR,Italy,,0,1,0
+SK,Greece,Sweden,1,0,1
+EK,Singapore,Italy,1,1,1
+DE,Canada,France,1,0,1
+MK,South Africa,Mauritius,1,0,1
+SK,Netherlands,United States,0,1,0
+BA,Italy,United Kingdom,91,60,90
+QR,Switzerland,Sri Lanka,0,2,0
+KS,Italy,Italy,1,0,1
+TK,Italy,Sudan,0,1,0
+PC,Italy,Iran,3,2,3
+FZ,Tanzania,Italy,0,1,0
+SN,Italy,Cameroon,8,2,8
+W6,Republic of Kosovo,Italy,0,1,0
+TP,Switzerland,Brazil,0,1,0
+RJ,Egypt,Italy,0,1,0
+FD,Maldives,Thailand,0,1,0
+BT,Latvia,United Kingdom,0,1,0
+AF,Italy,Madagascar,1,1,1
+FR,Italy,Seychelles,0,1,0
+N0,Norway,United States,2,0,2
+I2,Denmark,Spain,1,0,1
+TK,Bulgaria,Turkey,1,0,1
+AZ,Luxembourg,Italy,0,1,0
+DY,Italy,Hong Kong,0,3,0
+OS,Italy,Japan,7,14,7
+LH,Sweden,Netherlands,0,1,0
+HX,Philippines,Hong Kong,1,1,1
+EN,United States,,0,1,0
+VS,Germany,Mexico,0,1,0
+LO,Italy,Kazakhstan,0,1,0
+HF,Ivory Coast,Guinea,0,1,0
+FR,Lithuania,Italy,4,13,4
+AF,Italy,Ecuador,0,2,0
+LS,United Kingdom,Spain,3,0,3
+FJ,New Zealand,Fiji,0,1,0
+VY,Spain,Germany,4,4,4
+LO,Egypt,Italy,0,1,0
+W6,Malta,Romania,1,0,1
+OS,Austria,Austria,0,1,0
+KL,Sweden,Morocco,0,2,0
+FR,Italy,Hong Kong,0,2,0
+FD,Thailand,Cambodia,0,2,0
+FR,Poland,Norway,1,0,1
+MK,United Kingdom,Mauritius,1,0,1
+AF,Italy,Tunisia,0,2,0
+G9,Kyrgyzstan,Egypt,2,0,2
+LH,Netherlands,United States,2,0,2
+CA,Italy,Japan,0,71,0
+EY,Australia,Italy,4,2,4
+TK,Italy,Nepal,1,3,1
+XY,Saudi Arabia,Saudi Arabia,4,0,4
+FR,Italy,Argentina,0,14,0
+UX,Argentina,Italy,0,3,0
+QR,France,South Korea,1,1,1
+F9,Dominican Republic,Puerto Rico,0,1,0
+ME,United Kingdom,Lebanon,1,1,1
+W6,Romania,Greece,4,1,4
+T6,Philippines,Philippines,0,5,0
+SQ,Indonesia,Hong Kong,3,0,3
+AF,Italy,Algeria,1,0,1
+AF,Peru,Italy,5,1,5
+LH,Italy,Lebanon,2,0,2
+AZ,Italy,Moldova,0,4,0
+J9,Saudi Arabia,Nepal,1,0,1
+TP,Germany,Brazil,1,0,1
+AZ,Algeria,Italy,0,3,0
+LH,Italy,United Arab Emirates,2,0,2
+KL,Netherlands,United States,0,1,0
+KL,Germany,Netherlands,1,0,1
+LO,Italy,Egypt,0,7,0
+AY,Italy,Finland,55,12,54
+OS,Italy,Hong Kong,0,1,0
+TK,Italy,Bangladesh,1,3,1
+VN,Vietnam,Singapore,0,7,0
+EW,Germany,Spain,1,2,1
+AC,Morocco,Canada,0,1,0
+IB,Italy,Bolivia,0,1,0
+BA,United Kingdom,France,2,0,2
+AF,France,Switzerland,1,0,1
+AZ,Italy,Serbia,0,1,0
+FR,Netherlands,United Kingdom,1,1,1
+W6,Belgium,Romania,1,0,1
+QR,Italy,South Africa,0,1,0
+TK,Turkey,Iran,0,1,0
+FR,Czech Republic,Italy,42,37,42
+5W,United Arab Emirates,Italy,0,1,0
+7C,South Korea,South Korea,3,1,3
+W6,Italy,Kuwait,2,1,2
+LH,Italy,Republic of Kosovo,0,1,0
+FR,Portugal,Hungary,2,0,2
+KL,Germany,Italy,2,0,2
+NO,Italy,,0,1,0
+QR,France,Japan,0,1,0
+U2,Netherlands,Spain,1,0,1
+SQ,Germany,Indonesia,1,0,1
+GQ,Italy,Greece,22,100,22
+CA,Italy,China,5,81,5
+LH,Italy,Iraq,1,0,1
+FR,Malta,Albania,0,1,0
+TK,Italy,South Korea,3,9,3
+DY,Italy,,0,9,0
+FR,Luxembourg,Spain,0,1,0
+TP,Portugal,Brazil,0,1,0
+7C,South Korea,Taiwan,0,1,0
+NU,Japan,Japan,1,0,1
+VY,Spain,Czech Republic,1,0,1
+KL,Italy,Uganda,0,1,0
+DY,United Kingdom,Norway,0,2,0
+F3,Saudi Arabia,Italy,0,1,0
+LX,Switzerland,Singapore,0,1,0
+HV,France,Italy,18,25,18
+VY,Italy,United Kingdom,59,54,58
+DY,Italy,Finland,0,4,0
+FR,Germany,,0,3,0
+AF,Switzerland,Vietnam,2,0,2
+FD,Indonesia,Thailand,0,5,0
+I2,Spain,Netherlands,4,0,4
+TW,South Korea,Japan,0,12,0
+LH,Netherlands,Germany,2,1,2
+V7,Italy,Norway,0,1,0
+W6,Germany,Serbia,0,1,0
+FR,Portugal,Romania,0,2,0
+FT,United Arab Emirates,Egypt,0,1,0
+OB,Bolivia,Peru,0,1,0
+V7,Italy,Spain,34,44,34
+CX,Italy,China,0,2,0
+KN,China,China,0,4,0
+FR,United Kingdom,Spain,2,7,2
+AF,Italy,Ghana,1,1,1
+U2,United Kingdom,Portugal,1,2,1
+UX,Uruguay,Italy,0,1,0
+G9,India,Italy,0,1,0
+AF,Colombia,Italy,0,2,0
+LX,Italy,Egypt,0,2,0
+LH,Italy,Mauritius,0,1,0
+EK,Spain,Mexico,1,0,1
+AF,France,Mexico,1,1,1
+MH,United Kingdom,Australia,2,0,2
+V7,Italy,,0,10,0
+BQ,Italy,Spain,1,0,1
+G9,United Arab Emirates,Sri Lanka,1,0,1
+KL,Netherlands,Canada,1,0,1
+LX,Switzerland,Germany,0,2,0
+AF,Italy,United Kingdom,2,0,2
+JQ,Australia,Singapore,1,3,1
+OG,Iceland,Sweden,2,0,2
+AF,France,France,7,3,7
+SN,Italy,United States,0,8,0
+SK,Italy,Netherlands,1,3,1
+CZ,Italy,Australia,0,2,0
+XR,Spain,Italy,0,1,0
+KM,France,Malta,0,1,0
+PC,Switzerland,Turkey,0,1,0
+FZ,Maldives,Sri Lanka,1,0,1
+KL,Argentina,Italy,0,1,0
+CY,Cyprus,Lebanon,1,0,1
+AR,Argentina,Dominican Republic,0,1,0
+AV,Bolivia,Ecuador,0,1,0
+DE,Germany,Spain,1,4,1
+EY,Philippines,Italy,1,6,1
+LH,Italy,Belgium,4,6,4
+FR,Italy,Australia,0,5,0
+LX,Norway,Italy,2,1,2
+XZ,Albania,Italy,3,1,3
+FR,Morocco,Spain,9,6,9
+MU,Italy,Australia,0,2,0
+U2,Italy,Belgium,2,1,2
+UJ,Egypt,Egypt,0,2,0
+PC,Italy,Cyprus,2,0,2
+TK,Italy,Kuwait,0,1,0
+V7,Spain,France,1,0,1
+PC,Turkey,Italy,17,12,17
+U2,France,United Kingdom,11,2,11
+W6,Italy,Uganda,0,1,0
+OS,Germany,Albania,0,1,0
+AF,Georgia,Italy,1,0,1
+KL,United States,United States,0,4,0
+OG,United Kingdom,United States,0,1,0
+TK,Italy,Uzbekistan,6,5,6
+OS,Poland,Austria,4,0,4
+FR,Italy,Serbia,0,1,0
+LH,Germany,Malta,1,0,1
+WY,Tanzania,Italy,1,0,1
+TP,Portugal,France,0,2,0
+W6,Austria,Italy,3,5,3
+9U,Moldova,Italy,0,7,0
+L6,Morocco,Mauritania,0,4,0
+LH,Italy,Sweden,9,7,9
+2W,Cuba,Italy,0,3,0
+FR,France,Croatia,0,1,0
+BA,United States,Albania,1,0,1
+B6,United States,The Bahamas,0,1,0
+QR,Italy,Namibia,1,0,1
+JU,Turkey,Italy,2,1,2
+ET,Mozambique,Italy,1,4,1
+TK,Italy,Taiwan,2,0,2
+AK,Malaysia,Thailand,0,3,0
+EK,Italy,Singapore,3,1,3
+PC,Turkey,Austria,1,0,1
+LO,Armenia,Italy,0,1,0
+UA,Germany,Mexico,2,0,2
+U2,Portugal,Portugal,7,0,7
+IZ,Italy,Israel,1,2,1
+EK,Slovenia,Japan,0,2,0
+W9,Romania,United Kingdom,1,0,1
+V7,Croatia,France,2,0,2
+QR,Italy,Qatar,0,1,0
+CX,Hong Kong,Singapore,0,1,0
+KM,Italy,Malta,0,373,0
+W6,Italy,Austria,47,86,47
+H4,Italy,Moldova,0,16,0
+SG,Thailand,Italy,0,1,0
+FR,United Kingdom,France,6,0,6
+W6,Italy,Sweden,3,3,3
+LS,Italy,Spain,0,2,0
+E5,Egypt,Italy,21,4,21
+EK,Austria,Namibia,0,3,0
+N0,United States,Italy,5,6,5
+A3,Greece,Armenia,0,1,0
+W6,Italy,Pakistan,0,5,0
+CM,Peru,Italy,0,2,0
+AD,Brazil,France,0,2,0
+CY,Italy,United Arab Emirates,0,1,0
+FR,Czech Republic,France,1,0,1
+KC,Kazakhstan,Azerbaijan,0,1,0
+AT,Ivory Coast,Morocco,0,1,0
+KE,Japan,Italy,1,1,1
+6H,Israel,United Arab Emirates,0,1,0
+EY,United Arab Emirates,India,2,0,2
+LX,Italy,Iceland,1,20,1
+HV,Portugal,Italy,0,2,0
+UA,Netherlands,United States,3,0,3
+LH,Germany,France,4,2,4
+EW,Czech Republic,Germany,1,0,1
+IB,Spain,Portugal,4,7,4
+HC,Italy,Cape Verde,0,6,0
+ET,Italy,Ghana,1,0,1
+TK,China,Albania,0,1,0
+UA,Dominican Republic,Italy,0,3,0
+A3,Albania,,0,1,0
+AZ,Italy,Portugal,2,8,2
+OS,Italy,Thailand,11,13,11
+HV,France,Netherlands,1,0,1
+Z9,Malaysia,Malaysia,0,5,0
+CZ,Italy,,0,6,0
+BA,Italy,India,0,2,0
+MU,Italy,China,0,15,0
+LX,Switzerland,Spain,0,3,0
+IB,Spain,Austria,1,0,1
+BT,Germany,Latvia,1,1,1
+DY,Finland,Sweden,0,1,0
+HV,Belgium,Spain,1,0,1
+AC,Canada,France,1,0,1
+A3,Turkey,Greece,0,1,0
+DT,Namibia,Italy,0,1,0
+W6,Italy,Guinea,0,2,0
+AZ,Italy,Luxembourg,3,3,3
+TK,Italy,Philippines,8,4,8
+G9,Italy,Pakistan,3,7,3
+W6,Italy,Cuba,0,4,0
+"",Argentina,Spain,8,0,8
+AZ,Italy,Seychelles,0,8,0
+PC,Italy,Kyrgyzstan,3,11,3
+SK,Italy,Portugal,0,2,0
+CX,China,Hong Kong,1,0,1
+AV,Guatemala,Spain,2,0,2
+IB,Spain,Costa Rica,1,1,1
+LH,France,,0,2,0
+AF,Italy,Guatemala,0,1,0
+I2,Spain,Spain,23,1,23
+AT,Ghana,Italy,0,1,0
+SA,South Africa,Namibia,0,1,0
+AF,Norway,Italy,1,0,1
+KE,Italy,Japan,9,8,9
+GF,Italy,Philippines,0,7,0
+TK,Philippines,Italy,0,1,0
+EK,Bangladesh,Italy,2,0,2
+EK,Italy,Canada,0,3,0
+LH,Italy,Greece,5,4,5
+WS,United States,Canada,1,7,1
+W6,Italy,Republic of Macedonia,21,11,21
+QR,Italy,Indonesia,39,65,39
+PC,Israel,Turkey,2,1,2
+QF,Australia,Italy,0,6,0
+KM,Italy,Portugal,0,2,0
+JU,Montenegro,Italy,1,0,1
+LH,Germany,Canada,1,0,1
+EI,Republic of Ireland,France,0,1,0
+MS,Rwanda,Italy,0,3,0
+3O,Italy,Morocco,119,40,118
+NK,United States,United States,18,22,18
+LX,Switzerland,Portugal,4,1,4
+FR,Israel,Italy,3,0,3
+AF,Italy,Greece,1,1,1
+SQ,Indonesia,Japan,1,0,1
+3O,Italy,,0,4,0
+AA,Italy,Puerto Rico,1,0,1
+A3,Greece,Portugal,0,1,0
+SN,Italy,Rwanda,1,0,1
+LH,Italy,Nepal,0,1,0
+LH,Italy,Seychelles,0,1,0
+W6,Italy,Georgia,3,9,3
+DE,Italy,Cuba,2,3,2
+W6,Italy,Uzbekistan,0,3,0
+6E,India,India,7,15,7
+HV,France,,0,2,0
+KL,Poland,Netherlands,1,0,1
+SM,Saudi Arabia,Egypt,2,1,2
+LH,Italy,Indonesia,0,1,0
+AZ,Italy,Costa Rica,0,2,0
+MS,China,Italy,0,1,0
+OU,Croatia,Luxembourg,0,1,0
+V7,France,Italy,22,12,22
+LX,Switzerland,Italy,12,24,12
+CA,Italy,Thailand,0,24,0
+FZ,Italy,Maldives,1,12,1
+LH,United Kingdom,Italy,1,2,1
+BQ,Italy,Germany,2,0,2
+LX,Italy,China,1,2,1
+BA,United Kingdom,United Kingdom,2,0,2
+HC,Senegal,Italy,0,2,0
+A3,Greece,Austria,1,1,1
+LO,Slovenia,Japan,0,3,0
+KE,South Korea,Israel,0,1,0
+MS,Austria,Egypt,0,1,0
+KL,Peru,Netherlands,1,0,1
+CI,Japan,Italy,0,2,0
+"",Colombia,Colombia,6,1,6
+TK,Italy,United Arab Emirates,13,18,13
+CA,Italy,Taiwan,0,9,0
+EK,New Zealand,Australia,0,1,0
+LH,Sweden,Italy,5,1,5
+PR,Hong Kong,Guam,0,1,0
+F3,Saudi Arabia,Saudi Arabia,0,1,0
+VY,Italy,Peru,0,1,0
+AZ,Netherlands,,0,1,0
+LH,Spain,United States,0,2,0
+AP,Italy,Italy,0,15,0
+W6,Italy,Poland,57,29,56
+UA,Italy,,13,9,13
+SK,Sweden,Italy,4,5,4
+KL,Italy,Panama,0,5,0
+A3,Cyprus,Greece,1,0,1
+UA,United States,United States,11,8,11
+U2,Germany,United Kingdom,7,0,7
+FR,Republic of Ireland,Poland,1,0,1
+FR,Estonia,Sweden,0,2,0
+U2,Italy,Indonesia,0,1,0
+SN,Belgium,Germany,11,0,11
+BT,Latvia,Norway,5,0,5
+GF,Italy,India,0,4,0
+CY,Italy,Lebanon,0,8,0
+AZ,Spain,Vietnam,0,7,0
+OS,Belgium,Italy,1,0,1
+BT,Latvia,Italy,1,0,1
+A3,Lebanon,Italy,0,2,0
+W6,Hungary,Netherlands,1,0,1
+BA,Italy,Dominican Republic,0,2,0
+EK,Italy,Thailand,36,28,36
+TP,Italy,Morocco,1,9,1
+FR,Spain,United Kingdom,2,9,2
+AF,Italy,Singapore,1,2,1
+AP,Italy,Cape Verde,0,5,0
+MS,Italy,Uganda,0,2,0
+LA,Portugal,Brazil,0,7,0
+FI,Switzerland,Iceland,1,1,1
+IB,Spain,Switzerland,0,1,0
+BI,United Arab Emirates,Indonesia,1,0,1
+J9,Saudi Arabia,India,1,0,1
+LH,Germany,Belgium,1,1,1
+TU,Tunisia,France,0,3,0
+Z0,United States,United Kingdom,9,3,9
+CX,Italy,Japan,1,2,1
+TK,Italy,Singapore,8,8,8
+W6,France,Hungary,1,0,1
+W6,France,Romania,3,1,3
+AT,United Kingdom,The Gambia,0,1,0
+NO,Kenya,Italy,0,1,0
+SN,Italy,United Kingdom,0,1,0
+AF,Italy,Mexico,3,16,3
+V7,Italy,Portugal,0,6,0
+SV,India,Italy,0,4,0
+AZ,Italy,Greece,28,107,28
+LH,Luxembourg,Italy,2,2,2
+IB,Mexico,Italy,1,3,1
+ET,Italy,Malawi,1,1,1
+EY,Germany,Pakistan,0,1,0
+VU,Vietnam,,0,2,0
+FR,Spain,,0,1,0
+LH,Italy,Oman,2,9,2
+Z0,United States,Italy,6,4,6
+AF,Germany,Mexico,3,3,3
+VY,Croatia,Italy,4,3,4
+LX,Germany,Italy,4,1,4
+TK,Turkey,Mauritius,2,0,2
+LH,Italy,Latvia,2,8,2
+VY,Spain,Switzerland,2,0,2
+SV,Italy,Pakistan,0,1,0
+TR,Indonesia,Singapore,1,1,1
+KL,Italy,Japan,3,1,3
+LA,Argentina,France,0,1,0
+AF,Italy,The Bahamas,0,1,0
+AY,Italy,Norway,1,0,1
+LO,Italy,Lebanon,0,1,0
+AZ,Malta,Italy,5,1,5
+BA,United States,Colombia,0,1,0
+FR,Hungary,Spain,2,2,2
+LH,Lithuania,Italy,2,0,2
+KC,Georgia,Kazakhstan,0,5,0
+W6,Cyprus,Austria,1,0,1
+IB,Belgium,Colombia,3,0,3
+EW,France,Germany,1,0,1
+FR,France,Finland,0,1,0
+EK,Armenia,,0,1,0
+OU,Italy,Croatia,0,1,0
+EW,Italy,Czech Republic,12,7,12
+QR,Thailand,Italy,10,13,10
+AZ,Italy,Colombia,0,14,0
+EW,United Kingdom,Italy,2,10,2
+6E,India,Saudi Arabia,0,1,0
+AF,United States,French Polynesia,0,3,0
+MH,United States,Dominican Republic,0,1,0
+I5,India,India,1,2,1
+OS,Austria,Denmark,0,1,0
+TK,Georgia,Turkey,1,0,1
+U2,Italy,Republic of Ireland,0,1,0
+AZ,Italy,Tanzania,0,13,0
+B6,Dominican Republic,United States,0,2,0
+DE,Italy,United States,7,12,7
+BT,Italy,Finland,0,5,0
+QZ,Singapore,Indonesia,0,14,0
+AF,Italy,Germany,1,1,1
+N0,France,United States,5,0,5
+AV,Costa Rica,United States,2,0,2
+FR,Republic of Ireland,Germany,3,0,3
+LH,Italy,Algeria,1,0,1
+TP,France,Mexico,1,0,1
+LO,Moldova,Italy,1,0,1
+W6,Hungary,Spain,1,0,1
+KL,Italy,Colombia,4,41,4
+VY,Spain,France,14,6,14
+VS,United Kingdom,Brazil,0,1,0
+LH,Italy,Switzerland,1,1,1
+FR,Spain,Belgium,3,7,3
+EY,Italy,India,4,2,4
+BA,United States,United Kingdom,1,0,1
+AF,South Korea,Italy,1,0,1
+LX,Italy,Croatia,1,0,1
+TK,Turkey,Cyprus,0,3,0
+JU,Italy,Hungary,0,2,0
+MM,Japan,Australia,0,1,0
+LG,Luxembourg,Spain,1,0,1
+LH,Costa Rica,Italy,1,0,1
+OS,Iraq,Italy,1,0,1
+EY,United Arab Emirates,Malaysia,1,0,1
+W6,Italy,Saudi Arabia,39,33,39
+LH,United States,United States,0,16,0
+DE,Italy,Mexico,5,2,5
+W6,Norway,Italy,0,1,0
+2W,Dominican Republic,Italy,0,4,0
+TK,Azerbaijan,Brazil,0,1,0
+VY,Italy,Colombia,2,0,2
+ET,Ethiopia,Kenya,0,3,0
+QR,France,Indonesia,1,0,1
+TR,Greece,Singapore,2,2,2
+AY,Finland,Greece,1,0,1
+AY,Finland,Sweden,3,0,3
+LX,Italy,Sri Lanka,0,1,0
+PC,Italy,Turkey,94,147,93
+FR,Italy,Estonia,7,16,7
+EY,Sri Lanka,Italy,6,0,6
+OS,Egypt,Italy,4,0,4
+FZ,Italy,,0,2,0
+A3,Spain,Greece,2,0,2
+FR,Germany,Belgium,0,2,0
+QH,Vietnam,Vietnam,1,1,1
+DL,Italy,Canada,1,0,1
+HV,Italy,Mexico,0,1,0
+LO,Canada,Turkey,0,1,0
+SM,Jordan,Morocco,0,3,0
+AV,Brazil,Colombia,1,0,1
+LO,Poland,Egypt,1,0,1
+LH,Italy,New Zealand,0,1,0
+HA,United States,United States,0,42,0
+PK,Italy,,0,2,0
+UX,Italy,Mexico,4,20,4
+NO,Italy,Italy,2,3,2
+QR,Italy,Laos,0,1,0
+AZ,Italy,Romania,0,1,0
+V7,Italy,Morocco,0,1,0
+IB,Panama,Italy,0,1,0
+EW,Spain,Germany,5,2,5
+E5,Italy,Egypt,33,57,33
+W6,Italy,Portugal,53,51,52
+FR,Portugal,United Kingdom,3,0,3
+HC,Italy,Ivory Coast,0,3,0
+NO,Italy,Cuba,20,8,20
+EK,Germany,United Arab Emirates,1,0,1
+QR,Italy,Thailand,35,42,35
+AC,Italy,United States,0,5,0
+E9,Spain,Cuba,1,6,1
+MS,Italy,South Africa,0,2,0
+A3,Georgia,Italy,0,1,0
+KL,Netherlands,Brazil,0,1,0
+LX,Hungary,Italy,1,0,1
+LH,Italy,Thailand,17,24,17
+IB,Spain,Panama,1,0,1
+SK,Italy,,0,2,0
+LX,Italy,Singapore,1,5,1
+RJ,Saudi Arabia,Jordan,1,1,1
+RO,Moldova,Romania,0,1,0
+A3,Germany,Italy,0,4,0
+AT,United States,Italy,0,2,0
+AC,Germany,Canada,0,2,0
+LO,Poland,Italy,0,5,0
+AF,Italy,Portugal,2,2,2
+U2,Republic of Kosovo,Switzerland,1,0,1
+IB,Senegal,Italy,1,1,1
+"",Argentina,Italy,3,0,3
+XQ,Italy,Turkey,2,4,2
+W6,Romania,Albania,0,1,0
+F8,Canada,Canada,0,2,0
+XQ,Turkey,Turkey,1,0,1
+TK,Japan,Italy,0,1,0
+FR,Hungary,Greece,0,1,0
+5W,Saudi Arabia,United Arab Emirates,0,1,0
+OS,Republic of Kosovo,Italy,0,1,0
+CI,Italy,Vietnam,0,1,0
+"",Panama,Colombia,0,3,0
+AF,Italy,Nigeria,3,2,3
+LH,Italy,Australia,0,5,0
+AZ,Italy,Cameroon,0,4,0
+AK,Malaysia,South Korea,0,1,0
+BA,Belgium,Italy,1,0,1
+EY,Maldives,United Arab Emirates,1,0,1
+U2,Morocco,Italy,12,1,12
+SQ,Italy,Laos,0,3,0
+BR,Italy,Indonesia,0,2,0
+AZ,Italy,Hong Kong,0,9,0
+CM,Brazil,Venezuela,0,1,0
+FR,Poland,Finland,3,0,3
+HV,France,Spain,3,1,3
+AC,France,Canada,0,1,0
+AC,Portugal,Canada,0,3,0
+TG,Switzerland,Indonesia,0,1,0
+VY,Italy,Bolivia,0,1,0
+FO,Argentina,Argentina,16,0,16
+AZ,Italy,Saudi Arabia,0,2,0
+EW,Germany,France,6,3,6
+A3,Italy,Turkey,0,4,0
+FR,Portugal,France,0,5,0
+CZ,China,Thailand,0,1,0
+FR,Italy,Albania,0,6,0
+TP,United Kingdom,United States,0,1,0
+LX,Italy,India,1,1,1
+KU,Spain,Thailand,0,4,0
+OS,Italy,Latvia,0,1,0
+SK,Italy,Thailand,0,4,0
+W6,Hungary,Cyprus,10,0,10
+MU,Italy,Thailand,0,4,0
+OS,Italy,France,1,2,1
+FI,Iceland,Italy,0,2,0
+IB,Italy,Brazil,2,3,2
+DY,France,Finland,0,1,0
+PC,Armenia,Italy,1,2,1
+KL,Italy,Saudi Arabia,1,0,1
+EY,Italy,Philippines,9,4,9
+KL,Italy,Australia,0,2,0
+EW,Spain,Italy,2,2,2
+W6,Netherlands,Italy,18,15,18
+UA,Germany,United States,2,2,2
+UX,Spain,,0,2,0
+LA,Brazil,Spain,0,6,0
+NT,Italy,Senegal,0,1,0
+AZ,Italy,Thailand,2,4,2
+8B,Indonesia,Indonesia,0,3,0
+KL,Netherlands,El Salvador,0,2,0
+RS,Japan,South Korea,0,2,0
+VY,Italy,Norway,0,2,0
+DE,Kenya,Italy,0,1,0
+AF,France,Morocco,1,0,1
+VY,Denmark,Netherlands,3,1,3
+QR,Italy,China,4,2,4
+W6,Italy,Republic of Kosovo,2,2,2
+MS,Italy,Rwanda,0,1,0
+TK,Azerbaijan,Italy,0,2,0
+LO,Poland,Austria,0,1,0
+CZ,China,China,3,3,3
+PM,Spain,Spain,4,3,4
+EN,Italy,Germany,5,3,5
+GQ,Greece,Italy,8,17,8
+LX,Spain,Italy,4,2,4
+FR,Greece,Greece,4,6,4
+OZ,Japan,China,0,1,0
+FR,United Kingdom,Cyprus,1,1,1
+AF,Portugal,Italy,1,0,1
+AF,United States,United Kingdom,0,1,0
+JQ,Australia,Italy,0,4,0
+FR,Italy,Guadeloupe,0,1,0
+QR,Greece,Australia,1,0,1
+KM,Italy,Belgium,0,1,0
+LX,France,Brazil,0,2,0
+FR,Italy,,0,168,0
+TK,Italy,Japan,10,20,10
+HV,Netherlands,France,2,1,2
+AY,Italy,South Korea,6,2,6
+KL,Italy,Costa Rica,1,4,1
+AV,Colombia,Mexico,3,0,3
+TR,Singapore,,0,1,0
+JU,Slovenia,Greece,2,1,2
+AF,Italy,United Arab Emirates,1,0,1
+LH,France,United States,1,0,1
+RA,Nepal,Thailand,0,2,0
+AZ,Italy,Japan,46,123,46
+IB,Ecuador,Italy,0,1,0
+MS,Egypt,Italy,0,34,0
+AM,Spain,Mexico,0,4,0
+AF,Italy,Saint Barthélemy,0,4,0
+EK,Italy,Mozambique,0,4,0
+LX,Switzerland,Bulgaria,0,1,0
+LH,Belgium,Italy,6,4,6
+UA,United States,Cayman Islands,0,1,0
+LH,Austria,Belgium,1,0,1
+GF,Italy,Sri Lanka,0,1,0
+U2,United Kingdom,Switzerland,1,0,1
+PW,Tanzania,,0,1,0
+CX,Italy,South Korea,1,0,1
+NH,Mexico,Japan,0,2,0
+EW,Italy,Switzerland,1,2,1
+EI,Netherlands,United States,1,0,1
+OA,Greece,,0,1,0
+"",Colombia,Peru,3,1,3
+WY,Thailand,Italy,1,0,1
+LX,Italy,Lithuania,1,0,1
+U2,Italy,Denmark,14,7,14
+W6,Greece,Italy,22,13,22
+A3,Egypt,Italy,1,3,1
+DY,Norway,Norway,0,6,0
+XJ,Thailand,Japan,0,2,0
+RO,Turkey,Romania,0,1,0
+TP,Mexico,Italy,2,4,2
+BA,Belgium,United States,1,0,1
+TR,Singapore,Thailand,2,0,2
+LH,Italy,Bulgaria,1,1,1
+EN,Italy,Sri Lanka,0,1,0
+EY,India,Italy,5,8,5
+LH,Italy,Aruba,0,5,0
+W6,Albania,Greece,2,0,2
+HV,Netherlands,Greece,1,0,1
+DO,Sint Maarten,Dominican Republic,0,1,0
+BA,Italy,Argentina,0,1,0
+JQ,Singapore,Australia,1,0,1
+BR,Italy,Philippines,0,2,0
+UX,Venezuela,Italy,0,3,0
+SN,Germany,Mexico,0,1,0
+KL,France,United States,0,1,0
+LO,Albania,United States,0,1,0
+U2,Spain,Germany,1,0,1
+AV,Colombia,,0,1,0
+SQ,Maldives,Indonesia,1,0,1
+LY,Israel,Moldova,0,1,0
+ET,Italy,Tanzania,10,35,10
+QR,Jordan,Oman,2,0,2
+FR,Portugal,Belgium,2,0,2
+OS,Belgium,Egypt,1,7,1
+W6,Sweden,Bosnia and Herzegovina,2,0,2
+PK,Pakistan,Italy,6,0,6
+LH,Colombia,Italy,1,0,1
+U2,Spain,Portugal,5,0,5
+6E,India,Vietnam,0,1,0
+W6,United Kingdom,Romania,2,1,2
+LH,Croatia,Italy,1,0,1
+VY,Netherlands,Denmark,1,1,1
+LX,Italy,Netherlands,2,4,2
+OS,Italy,Namibia,0,5,0
+FR,Italy,Cuba,0,5,0
+EI,United States,Italy,2,9,2
+ZB,United Kingdom,Albania,0,1,0
+AT,Italy,Burkina Faso,0,2,0
+AV,Colombia,United States,3,0,3
+SK,Faroe Islands,Denmark,1,0,1
+TK,Bulgaria,Uruguay,0,1,0
+DY,Italy,United States,0,3,0
+ET,Italy,Mozambique,1,1,1
+VY,Germany,France,1,4,1
+W6,Albania,,0,2,0
+JU,Italy,United Arab Emirates,0,2,0
+AF,Italy,Guadeloupe,1,8,1
+D7,Indonesia,Malaysia,0,1,0
+EK,Italy,Philippines,7,5,7
+TK,Italy,Malaysia,13,8,13
+UR,South Sudan,Uganda,0,1,0
+IB,Colombia,Italy,1,4,1
+AS,The Bahamas,United States,0,1,0
+KL,Italy,Philippines,1,1,1
+DY,Norway,Denmark,0,2,0
+LH,Italy,Kenya,3,1,3
+XC,Turkey,Germany,1,0,1
+A3,Italy,Jordan,3,1,3
+VY,Italy,France,227,185,225
+FZ,Kuwait,Italy,1,19,1
+UX,Germany,Spain,0,3,0
+V7,Italy,Cyprus,0,1,0
+SN,Italy,Senegal,5,0,5
+CA,Italy,,0,14,0
+A3,Greece,Cyprus,2,1,2
+FR,Bulgaria,Romania,0,1,0
+U2,France,Austria,0,1,0
+OW,Kenya,Italy,0,1,0
+HV,Greece,Netherlands,0,1,0
+FR,United Kingdom,Poland,1,0,1
+AV,United States,Colombia,1,0,1
+W6,Italy,Armenia,15,6,15
+DY,Germany,Norway,0,3,0
+TK,Turkmenistan,Italy,0,1,0
+AD,Uruguay,Brazil,0,1,0
+TK,Croatia,Turkey,1,0,1
+MS,Italy,Australia,0,1,0
+TP,Spain,Portugal,1,3,1
+5W,United Arab Emirates,Maldives,6,0,6
+GQ,Italy,,0,5,0
+IB,Italy,Panama,8,1,8
+AI,Italy,Nepal,0,4,0
+KU,Italy,Kuwait,1,2,1
+HC,France,Senegal,0,1,0
+AV,Spain,Argentina,1,0,1
+TK,Italy,Colombia,0,1,0
+AY,Italy,,0,1,0
+AF,Dominican Republic,Italy,0,1,0
+AY,Portugal,South Korea,1,0,1
+TK,Germany,Thailand,0,1,0
+MS,Italy,Ghana,0,2,0
+SN,Italy,Guinea,6,0,6
+FR,Italy,Slovakia,15,16,15
+BA,Italy,Saint Kitts and Nevis,0,3,0
+W6,Albania,Germany,3,2,3
+AF,Argentina,Italy,0,5,0
+IB,Spain,Belgium,1,0,1
+YS,Kenya,Tanzania,1,1,1
+W6,Italy,Indonesia,0,2,0
+U2,Morocco,Greece,1,1,1
+SK,Germany,United Kingdom,0,1,0
+IB,Dominican Republic,Italy,3,1,3
+LA,Colombia,Peru,0,2,0
+MU,Italy,Japan,0,3,0
+EW,Italy,,0,3,0
+AF,Italy,Cuba,16,8,16
+IB,Italy,Guatemala,0,1,0
+UO,Japan,Hong Kong,0,2,0
+EK,Sri Lanka,Italy,2,2,2
+LH,Italy,Cape Verde,0,1,0
+LY,Israel,South Africa,1,0,1
+BA,Italy,Maldives,0,1,0
+EN,Italy,Costa Rica,0,1,0
+SQ,Italy,New Zealand,0,1,0
+DM,Guatemala,Italy,0,2,0
+AV,Colombia,Spain,7,0,7
+MS,Italy,Tanzania,0,16,0
+UA,United States,Italy,5,6,5
+LX,Sweden,Italy,0,1,0
+TK,Italy,Australia,1,11,1
+QR,France,Tanzania,0,1,0
+ET,Central African Republic,Italy,0,3,0
+U2,Spain,France,5,0,5
+JL,Japan,Japan,5,1,5
+DY,Finland,Italy,0,1,0
+TR,Indonesia,Thailand,0,1,0
+EK,Sweden,Australia,1,0,1
+FR,Czech Republic,Spain,4,1,4
+JT,Indonesia,Indonesia,0,33,0
+AZ,Netherlands,Italy,9,24,9
+FR,Estonia,Italy,2,6,2
+LO,Italy,Poland,5,4,5
+UA,United States,Canada,1,0,1
+DY,Finland,Finland,0,3,0
+LH,Italy,Lithuania,1,0,1
+EN,Italy,Singapore,0,1,0
+AT,Italy,Mali,0,1,0
+FR,Italy,Bolivia,0,1,0
+UA,France,Mexico,1,0,1
+AZ,France,Italy,25,51,25
+U2,Portugal,Italy,46,15,46
+U2,Egypt,Italy,22,2,22
+ET,Italy,Kenya,5,7,5
+KL,Italy,Poland,1,1,1
+DY,Sweden,Denmark,0,2,0
+U2,Switzerland,Italy,14,4,14
+FR,Belgium,Montenegro,1,0,1
+NK,United States,Puerto Rico,0,1,0
+FR,France,Republic of Ireland,4,0,4
+W6,Italy,Tunisia,0,1,0
+W6,Norway,Poland,2,0,2
+XY,United Arab Emirates,Italy,0,1,0
+VB,Cuba,Mexico,2,0,2
+JU,Serbia,Montenegro,1,0,1
+LA,Chile,United Kingdom,0,4,0
+AM,Italy,Colombia,0,1,0
+AH,Mali,Italy,0,2,0
+DE,Italy,South Africa,1,0,1
+WE,Thailand,Italy,0,1,0
+C3,Slovenia,Greece,0,1,0
+AZ,Belgium,Italy,7,14,7
+PC,Kazakhstan,Germany,0,2,0
+RJ,Egypt,Greece,1,0,1
+OS,Italy,Republic of Kosovo,0,1,0
+DL,Italy,Jamaica,1,0,1
+TK,Saudi Arabia,Italy,1,0,1
+LA,Uruguay,Italy,0,1,0
+W6,Hungary,Germany,1,1,1
+FR,Italy,Poland,86,157,85
+TR,Australia,Greece,2,2,2
+SK,Denmark,Belarus,0,1,0
+EW,Germany,Netherlands,2,0,2
+G9,Italy,Bangladesh,2,0,2
+EK,Armenia,China,1,0,1
+TR,Madagascar,Madagascar,0,2,0
+3F,France,,0,3,0
+FR,Belgium,Portugal,1,1,1
+TG,Sweden,Thailand,1,1,1
+SK,Sweden,United Kingdom,0,2,0
+W6,France,Albania,1,0,1
+FZ,Maldives,Italy,0,4,0
+CA,Thailand,Italy,0,4,0
+W6,Italy,Cambodia,0,1,0
+UA,United States,The Bahamas,2,0,2
+FR,Slovakia,Italy,0,4,0
+KL,Germany,Mexico,0,5,0
+9U,Moldova,Spain,0,1,0
+W6,Italy,Mexico,0,1,0
+W6,Montenegro,Hungary,1,0,1
+VY,Denmark,France,0,1,0
+TR,Singapore,Indonesia,1,3,1
+W6,Netherlands,France,0,1,0
+NO,India,Italy,3,3,3
+FR,Finland,Italy,3,3,3
+HY,Italy,China,0,1,0
+KL,Italy,Cuba,1,6,1
+QR,Italy,Seychelles,2,2,2
+MK,South Africa,,0,4,0
+LO,France,Japan,0,2,0
+QZ,Indonesia,Malaysia,0,3,0
+LX,Italy,Denmark,0,1,0
+IB,Spain,Ecuador,1,1,1
+W6,Cyprus,Poland,1,0,1
+U2,Italy,Cyprus,32,8,32
+G9,Italy,Sri Lanka,16,28,16
+TP,Cape Verde,Italy,1,3,1
+SN,Nigeria,Italy,0,1,0
+KM,Italy,Denmark,0,4,0
+OS,Sweden,Montenegro,0,1,0
+FR,Portugal,Spain,3,9,3
+WS,United States,Italy,2,5,2
+W6,Poland,France,2,1,2
+OS,Italy,Poland,1,2,1
+NH,Brazil,Italy,0,5,0
+TW,Thailand,South Korea,0,1,0
+ET,Chad,Italy,1,0,1
+NO,Tanzania,Italy,1,0,1
+LO,Japan,Italy,1,0,1
+UX,Spain,United States,1,0,1
+6H,Italy,Israel,0,1,0
+LY,Italy,Israel,15,5,15
+AF,Mexico,Finland,1,0,1
+AZ,Italy,Cyprus,0,6,0
+LH,Finland,Germany,2,1,2
+HV,Turkey,France,1,0,1
+MS,Turkey,Nigeria,0,4,0
+TR,Malaysia,Singapore,1,1,1
+FR,United Kingdom,Morocco,0,3,0
+NH,Japan,Canada,0,1,0
+EW,Germany,United Kingdom,3,0,3
+EI,Republic of Ireland,Italy,5,1,5
+5U,Belize,Argentina,0,2,0
+LH,Italy,Portugal,2,2,2
+UI,Tanzania,Tanzania,1,4,1
+AT,Switzerland,Morocco,0,1,0
+IB,France,Morocco,0,1,0
+3O,Morocco,France,1,0,1
+LX,Belgium,Singapore,0,1,0
+AT,Italy,Ghana,0,1,0
+HV,Italy,United States,0,1,0
+FR,France,Portugal,0,1,0
+AV,Dominican Republic,Chile,0,2,0
+KL,Italy,United Kingdom,12,4,12
+3O,Belgium,Morocco,4,2,4
+3U,Italy,China,0,8,0
+UX,Honduras,Italy,0,1,0
+AF,Spain,Martinique,0,1,0
+LA,Bolivia,Spain,0,1,0
+W6,Belgium,Hungary,1,0,1
+EK,Italy,India,6,3,6
+QR,Italy,Philippines,3,10,3
+W6,Serbia,France,0,1,0
+FM,Hong Kong,China,0,2,0
+AZ,Italy,Ghana,0,3,0
+W6,Serbia,Italy,1,2,1
+WJ,Argentina,Argentina,0,4,0
+9X,United States,Italy,0,1,0
+AF,Switzerland,France,0,1,0
+Y4,Peru,Italy,0,3,0
+AF,Czech Republic,Italy,0,2,0
+PK,Italy,Pakistan,2,0,2
+SK,Italy,Lithuania,1,0,1
+QZ,Malaysia,Indonesia,0,1,0
+W6,Serbia,Switzerland,0,1,0
+VY,Italy,United States,10,14,10
+VY,Italy,Morocco,1,5,1
+GE*,South Africa,South Africa,1,0,1
+SN,Italy,Canada,0,8,0
+LH,Latvia,Italy,3,3,3
+A3,Armenia,Italy,0,3,0
+IB,France,Argentina,0,1,0
+4Z,Namibia,South Africa,0,1,0
+KL,United Kingdom,Italy,2,1,2
+RC,France,Faroe Islands,0,5,0
+IB,Italy,Venezuela,3,2,3
+AF,United States,Italy,1,1,1
+JL,United Kingdom,Japan,2,0,2
+FY,Thailand,Malaysia,0,1,0
+PC,Italy,Pakistan,0,1,0
+I2,Spain,Germany,2,0,2
+QV,Laos,Vietnam,0,1,0
+KL,Ecuador,Italy,0,2,0
+MH,Indonesia,Sri Lanka,1,0,1
+W6,Romania,Thailand,0,1,0
+DL,Italy,United States,59,0,58
+TK,Kenya,Italy,0,8,0
+UA,Brazil,Italy,3,0,3
+BA,France,United Kingdom,6,0,6
+KL,Italy,Spain,19,20,19
+LH,Italy,Jersey,0,2,0
+BR,France,Japan,0,1,0
+WY,Italy,Maldives,0,3,0
+AC,Italy,Jamaica,0,1,0
+6E,Italy,Thailand,2,5,2
+W6,Luxembourg,Italy,1,0,1
+AY,Finland,Finland,2,0,2
+VJ,India,Japan,0,1,0
+DE,United States,Germany,3,0,3
+V7,Portugal,Spain,3,0,3
+EW,Netherlands,Germany,1,0,1
+BT,Finland,Latvia,0,1,0
+DL,Italy,Mexico,1,0,1
+DY,Spain,Denmark,0,1,0
+"",Cuba,Colombia,1,1,1
+FZ,Sri Lanka,Maldives,0,1,0
+AZ,Republic of Macedonia,Italy,0,1,0
+N0,Italy,United States,80,33,79
+JU,Italy,Egypt,0,17,0
+IB,Spain,Norway,0,2,0
+TK,Italy,Brazil,0,7,0
+W6,Austria,Australia,0,1,0
+3Z,Poland,Italy,0,1,0
+AV,Mexico,Colombia,0,1,0
+FR,Poland,Austria,2,0,2
+FZ,Italy,Oman,0,1,0
+LH,Bulgaria,Italy,1,0,1
+2W,Spain,Dominican Republic,0,6,0
+DL,Italy,,21,0,21
+JQ,Australia,,0,1,0
+VJ,Vietnam,Vietnam,0,11,0
+SK,Germany,Denmark,1,1,1
+QH,Vietnam,Italy,0,2,0
+SQ,United Kingdom,Australia,2,0,2
+DM,Dominican Republic,Mexico,1,0,1
+FR,United Kingdom,United Kingdom,2,2,2
+DL,United States,Aruba,2,0,2
+AI,United Arab Emirates,India,0,2,0
+DY,Sweden,Italy,0,3,0
+FR,Italy,Malta,322,690,319
+VY,Greece,Italy,3,6,3
+W6,Italy,Iceland,27,31,27
+AZ,Greece,Italy,3,4,3
+OS,Italy,Bulgaria,6,4,6
+DG,Philippines,Philippines,2,2,2
+JU,Italy,Australia,0,1,0
+3F,Italy,Armenia,0,3,0
+AF,Italy,Canada,4,4,4
+AZ,Italy,The Bahamas,0,5,0
+T3,United Kingdom,United Kingdom,0,2,0
+V7,Germany,Italy,1,0,1
+SN,Germany,Belgium,0,1,0
+W6,Italy,Croatia,4,8,4
+TK,Turkey,Turkey,26,7,26
+AZ,Israel,Italy,2,2,2
+LA,Paraguay,Italy,0,4,0
+LA,Chile,Italy,2,17,2
+FR,Morocco,Portugal,1,0,1
+4Z,Mozambique,Italy,0,1,0
+EK,Egypt,Maldives,0,2,0
+SV,Egypt,Indonesia,0,1,0
+H2,United States,Peru,0,3,0
+VY,Spain,Morocco,1,0,1
+LS,Turkey,Italy,0,3,0
+KL,Italy,Curaçao,0,7,0
+LA,Brazil,United States,1,1,1
+GF,Italy,,0,7,0
+AF,France,Greece,1,1,1
+KL,Sint Maarten,United States,0,1,0
+FR,Jordan,Italy,1,3,1
+BT,Lithuania,Croatia,1,0,1
+LH,Angola,France,1,0,1
+AT,Italy,Western Sahara,0,1,0
+7C,Vietnam,South Korea,0,1,0
+B6,Mexico,United States,0,1,0
+Z2,Philippines,,0,1,0
+TP,Morocco,Italy,1,0,1
+VY,Germany,,0,2,0
+AM,Mexico,Italy,0,17,0
+VY,Netherlands,Italy,5,3,5
+W6,Bulgaria,Belgium,2,0,2
+U2,Croatia,France,2,0,2
+FZ,Italy,Sri Lanka,4,1,4
+BA,Italy,South Africa,1,0,1
+9C,Japan,China,1,0,1
+TN,United States,French Polynesia,0,1,0
+OS,Austria,Romania,0,2,0
+EN,Italy,,0,19,0
+AF,Republic of Ireland,Italy,1,0,1
+LH,Germany,Spain,5,2,5
+SV,Italy,Mauritius,5,4,5
+WS,Canada,Canada,1,4,1
+KM,Germany,Italy,0,1,0
+DE,Italy,Germany,0,2,0
+G4,United States,Italy,0,1,0
+LA,Argentina,Australia,0,1,0
+KM,Malta,Switzerland,0,1,0
+EK,Thailand,Italy,6,5,6
+LH,Spain,Germany,1,3,1
+BA,Japan,United States,0,1,0
+IB,Germany,Argentina,1,2,1
+6E,Italy,Nepal,0,2,0
+OS,Romania,Sweden,0,3,0
+CM,Guatemala,Brazil,0,2,0
+VY,Italy,The Gambia,2,3,2
+FR,Germany,Morocco,0,2,0
+NO,Maldives,Italy,1,0,1
+AK,Thailand,Malaysia,0,3,0
+PC,Romania,Turkey,1,1,1
+IB,Uruguay,Italy,2,2,2
+V7,Spain,Italy,5,6,5
+MH,Singapore,Malaysia,1,0,1
+EW,Germany,,0,3,0
+LO,Poland,Lithuania,0,1,0
+AT,Senegal,Italy,4,3,4
+EN,Italy,Bolivia,0,3,0
+TK,Italy,Seychelles,0,1,0
+ID,Indonesia,Indonesia,0,1,0
+FI,Italy,United States,0,2,0
+TP,Angola,Portugal,0,1,0
+VY,Netherlands,Cyprus,0,1,0
+LX,Italy,Austria,0,1,0
+FR,Germany,Hungary,1,0,1
+FR,Hungary,Italy,45,24,45
+U2,Italy,,0,43,0
+IB,Italy,Costa Rica,7,2,7
+UX,Portugal,Ecuador,0,2,0
+RJ,Turkey,Qatar,1,0,1
+9R,Colombia,Colombia,0,3,0
+5W,Israel,United Arab Emirates,1,0,1
+UA,United States,Mexico,2,0,2
+W6,Italy,Fiji,0,1,0
+BA,France,United States,0,1,0
+KL,France,Netherlands,0,1,0
+U2,Netherlands,United Kingdom,5,0,5
+AI,India,Italy,0,5,0
+W9,France,United Kingdom,2,1,2
+LX,Poland,Italy,1,0,1
+W6,Italy,Dominican Republic,0,2,0
+SN,Italy,Netherlands,0,2,0
+QR,France,Uganda,0,1,0
+VN,Vietnam,Vietnam,2,1,2
+LH,Austria,Germany,1,1,1
+UX,Peru,Spain,0,1,0
+UX,France,Spain,0,1,0
+EW,Austria,Germany,0,1,0
+H9,Saudi Arabia,Nepal,0,1,0
+AF,Switzerland,Italy,0,4,0
+KL,Italy,Argentina,5,2,5
+MU,Japan,Hungary,0,3,0
+PC,Georgia,Italy,1,1,1
+TK,Italy,Ghana,2,2,2
+GF,Sri Lanka,Maldives,0,1,0
+EK,Singapore,United States,1,0,1
+DL,United States,Mexico,2,0,2
+OZ,Italy,Australia,0,8,0
+DE,Italy,,2,0,2
+KL,Italy,Canada,14,7,14
+EK,Italy,South Africa,5,4,5
+KL,Netherlands,Romania,0,1,0
+KL,Italy,Faroe Islands,0,1,0
+FZ,Italy,Nepal,0,2,0
+UL,Italy,Sri Lanka,0,2,0
+FR,Spain,Malta,4,6,4
+U2,Luxembourg,Italy,6,1,6
+OS,Albania,China,0,1,0
+W9,Slovenia,United Kingdom,1,0,1
+AV,United Kingdom,Colombia,1,0,1
+OA,Greece,Italy,0,1,0
+W6,Italy,United States,0,9,0
+GF,Italy,United Arab Emirates,0,13,0
+A3,Greece,Hungary,1,2,1
+WT,Spain,Italy,0,2,0
+FR,Italy,Canada,0,2,0
+VY,Spain,Belgium,2,1,2
+HV,Italy,Spain,0,1,0
+KU,Kuwait,Turkey,0,2,0
+KL,Luxembourg,Italy,0,1,0
+2I,Peru,Peru,0,2,0
+KE,Japan,South Korea,1,0,1
+AZ,Italy,Croatia,1,1,1
+ET,Austria,Namibia,1,0,1
+LA,Brazil,Chile,0,1,0
+EW,Italy,United Kingdom,3,3,3
+W6,Italy,Maldives,0,11,0
+"",Germany,Republic of Kosovo,2,0,2
+TK,Italy,Tanzania,4,0,4
+EK,United States,Greece,1,0,1
+AZ,United Kingdom,Italy,4,3,4
+HV,United Kingdom,France,1,0,1
+DE,Italy,Mauritius,1,0,1
+BN,Italy,Italy,0,1,0
+J2,Azerbaijan,Italy,0,1,0
+FB,Netherlands,Bulgaria,0,1,0
+ET,Italy,Uganda,1,0,1
+KL,Argentina,Chile,2,0,2
+FR,Romania,Malta,0,1,0
+IW,Indonesia,Indonesia,0,1,0
+W6,Romania,United Arab Emirates,1,0,1
+EW,Germany,Greece,2,2,2
+DE,Italy,Dominican Republic,0,2,0
+KL,Norway,Italy,5,2,5
+YS,Tanzania,Tanzania,0,1,0
+QR,Indonesia,Italy,3,0,3
+AZ,Italy,Lithuania,0,1,0
+KQ,France,Madagascar,1,0,1
+9U,Turkey,Italy,0,1,0
+U2,Switzerland,Portugal,2,0,2
+QR,Tunisia,Qatar,0,1,0
+AF,Cuba,Italy,1,0,1
+CA,Singapore,Italy,0,1,0
+RJ,Italy,Jordan,5,10,5
+TX,United States,French Polynesia,0,1,0
+AV,Spain,Peru,2,0,2
+IB,Italy,Portugal,6,13,6
+AF,Germany,Chile,1,1,1
+W6,Saudi Arabia,Italy,5,10,5
+LX,Italy,Oman,0,3,0
+Z0,United States,,0,2,0
+AZ,Italy,Iceland,0,4,0
+U2,Italy,Tunisia,0,1,0
+KL,Peru,Italy,1,2,1
+U8,Greece,Cyprus,0,1,0
+TP,Israel,Portugal,0,2,0
+LH,Germany,Japan,0,1,0
+VB,Colombia,Mexico,0,1,0
+LH,Croatia,Switzerland,1,0,1
+KL,Italy,Tanzania,1,1,1
+AT,Italy,Cape Verde,0,3,0
+UX,Spain,Cuba,0,1,0
+GF,Italy,France,0,1,0
+2B,Italy,Maldives,0,2,0
+FJ,Fiji,Australia,1,0,1
+W6,Sweden,Hungary,1,0,1
+JQ,Japan,Japan,2,3,2
+TK,Germany,United Arab Emirates,1,0,1
+OZ,United Kingdom,Vietnam,1,0,1
+PC,Iraq,Austria,1,0,1
+5U,Honduras,Guatemala,0,1,0
+JU,Italy,Sweden,0,2,0
+ET,Italy,Botswana,1,0,1
+JL,Germany,Japan,0,1,0
+FR,Italy,Armenia,0,1,0
+U2,Italy,Switzerland,63,2,62
+AA,Italy,,18,0,18
+WY,Italy,India,0,1,0
+H4,Romania,Belgium,0,1,0
+CM,Panama,Costa Rica,1,0,1
+FR,United Kingdom,Portugal,0,1,0
+TK,Colombia,Italy,0,1,0
+W6,Azerbaijan,Italy,2,5,2
+EW,Italy,Sweden,9,10,9
+BA,Germany,India,0,1,0
+AZ,Italy,Turkey,0,2,0
+UA,Switzerland,United States,1,2,1
+DY,Iceland,Norway,0,1,0
+QR,Italy,South Korea,1,0,1
+V7,Italy,Romania,0,1,0
+AF,Brazil,Italy,1,1,1
+EK,Malta,Cyprus,0,1,0
+Y4,Guatemala,Mexico,0,1,0
+I2,Italy,Spain,54,3,53
+U2,Italy,Maldives,0,1,0
+BA,Spain,United States,1,0,1
+5W,United Arab Emirates,Uzbekistan,1,3,1
+OD,Indonesia,Australia,0,1,0
+SN,Italy,,0,1,0
+U2,France,Belgium,1,0,1
+D7,Malaysia,Australia,0,1,0
+AY,Denmark,Finland,1,0,1
+JQ,Singapore,Philippines,0,13,0
+AV,Panama,Colombia,2,0,2
+JU,Republic of Macedonia,Italy,1,0,1
+UX,Italy,Portugal,1,9,1
+GQ,Greece,Cyprus,3,0,3
+SN,United Kingdom,Belgium,2,0,2
+KU,India,Italy,1,3,1
+KL,Italy,Iceland,0,2,0
+WE,Vietnam,Thailand,0,2,0
+WF,Norway,Norway,0,9,0
+UX,Spain,Peru,0,1,0
+W6,Italy,Brazil,0,1,0
+AC,Canada,United States,0,1,0
+FR,Italy,Guatemala,0,1,0
+QF,United Kingdom,,0,2,0
+LH,Luxembourg,Israel,0,1,0
+B6,United States,Dominican Republic,0,1,0
+ZL,Australia,Australia,1,0,1
+HV,Tunisia,France,5,3,5
+FR,Italy,Croatia,113,208,112
+LH,United States,Italy,9,7,9
+BY,Mexico,United Kingdom,1,0,1
+ET,Italy,South Africa,7,4,7
+OS,Italy,Denmark,1,1,1
+LO,Kazakhstan,Italy,0,1,0
+LX,Italy,Aruba,0,1,0
+TK,Italy,Lebanon,1,5,1
+L6,Mali,Italy,0,1,0
+SM,Czech Republic,Egypt,0,1,0
+OD,Malaysia,Malaysia,0,1,0
+AZ,Italy,Albania,20,73,20
+OS,Portugal,Italy,1,0,1
+AV,Bolivia,United Kingdom,0,1,0
+W6,Romania,Germany,1,0,1
+KL,Netherlands,Curaçao,1,0,1
+AF,Italy,Honduras,0,1,0
+IB,Germany,Spain,1,0,1
+EK,Hungary,Thailand,0,1,0
+KL,Italy,Peru,7,19,7
+XZ,Greece,Italy,24,0,24
+U2,Italy,United States,10,8,10
+W6,Greece,Austria,1,0,1
+OS,Austria,Italy,15,23,15
+FR,Belgium,Greece,2,0,2
+SK,Norway,Norway,1,5,1
+HU,China,Italy,0,4,0
+BA,Netherlands,Canada,1,0,1
+OS,Italy,Armenia,2,0,2
+PD,United States,Canada,7,2,7
+LH,Italy,Netherlands,0,15,0
+NT,Spain,,0,2,0
+XQ,Germany,Turkey,1,2,1
+LX,Netherlands,United States,0,1,0
+LH,Luxembourg,Egypt,1,0,1
+FR,United Kingdom,Belgium,1,0,1
+IB,Spain,Morocco,3,1,3
+MK,Mauritius,France,1,0,1
+FR,Norway,Morocco,0,11,0
+OU,Bosnia and Herzegovina,Italy,0,4,0
+9N,Belize,Honduras,0,2,0
+FD,Thailand,Laos,0,1,0
+FR,Italy,Netherlands,74,98,73
+TK,Italy,Kazakhstan,1,4,1
+CZ,Italy,China,0,5,0
+LH,Italy,Iceland,2,7,2
+H4,Romania,Romania,0,2,0
+EY,South Korea,Italy,1,0,1
+AY,Czech Republic,South Korea,0,1,0
+JU,Egypt,Italy,0,1,0
+TW,Japan,South Korea,0,1,0
+JQ,Australia,United States,1,0,1
+TP,Italy,Senegal,4,17,4
+MS,Italy,Ethiopia,0,5,0
+LH,Italy,Brazil,6,10,6
+TK,United States,Albania,0,4,0
+UA,Germany,Costa Rica,0,1,0
+PC,Italy,Afghanistan,0,1,0
+KE,Italy,United States,0,2,0
+SQ,India,Philippines,1,0,1
+HU,Italy,China,0,3,0
+TK,Australia,Greece,0,1,0
+TG,Denmark,Thailand,1,0,1
+W6,Hungary,Italy,64,23,63
+CI,Italy,Indonesia,0,8,0
+FR,Greece,Germany,0,1,0
+W6,Republic of Macedonia,Italy,11,7,11
+W6,Italy,Sri Lanka,0,11,0
+TK,Kyrgyzstan,Italy,0,1,0
+LX,China,Italy,1,2,1
+LH,Germany,Denmark,0,1,0
+VN,Vietnam,India,0,1,0
+LH,Germany,Armenia,1,0,1
+OS,Italy,Hungary,1,1,1
+TK,Slovenia,South Africa,0,1,0
+W6,Iceland,Italy,6,12,6
+W6,Montenegro,Italy,0,4,0
+OV,Oman,United Arab Emirates,1,0,1
+AD,Brazil,Brazil,0,20,0
+JA,Uruguay,Brazil,0,3,0
+FR,Germany,Croatia,0,1,0
+OS,Austria,Bulgaria,0,1,0
+AZ,Italy,Peru,0,15,0
+LH,Italy,The Bahamas,0,3,0
+U2,Germany,Italy,42,2,42
+AF,Italy,Colombia,6,12,6
+U2,Switzerland,Spain,1,0,1
+WF,Norway,Italy,0,3,0
+FR,Cyprus,Poland,2,0,2
+AF,Italy,Hungary,0,1,0
+OK,Egypt,Italy,0,1,0
+A3,Italy,Cyprus,0,2,0
+EK,Netherlands,Thailand,0,2,0
+ET,Italy,Madagascar,9,21,9
+OZ,Italy,Japan,1,2,1
+B6,United States,Mexico,0,4,0
+SN,Denmark,Belgium,1,2,1
+B2,Belarus,Italy,0,2,0
+KL,Italy,Puerto Rico,0,2,0
+CX,Japan,Italy,2,0,2
+KL,Italy,India,1,0,1
+AW,Ghana,Ghana,0,1,0
+TP,Greece,,0,1,0
+WU,The Bahamas,United States,0,1,0
+W6,Germany,Romania,3,4,3
+AH,France,Senegal,0,3,0
+U2,France,Portugal,10,2,10
+PC,Italy,,0,5,0
+W9,Italy,United Kingdom,11,5,11
+A3,Greece,France,3,0,3
+FR,Morocco,France,0,1,0
+UL,Sri Lanka,Maldives,1,0,1
+V7,Greece,Italy,46,22,46
+TK,Italy,Jordan,5,1,5
+UX,Italy,Colombia,6,17,6
+UA,Italy,Mexico,7,1,7
+CX,Italy,Hong Kong,2,0,2
+LX,Germany,Switzerland,0,1,0
+DY,Denmark,Italy,0,6,0
+AF,Italy,Netherlands,1,1,1
+U2,France,Netherlands,3,1,3
+CX,Hong Kong,Taiwan,0,1,0
+QR,Kenya,United States,1,0,1
+IB,Portugal,Italy,6,4,6
+BA,United Kingdom,Mexico,2,2,2
+UX,Germany,Cuba,0,1,0
+UX,Italy,Venezuela,0,1,0
+AT,Italy,Gabon,0,1,0
+IB,Spain,El Salvador,0,1,0
+W6,Belgium,Albania,0,2,0
+FD,Thailand,Indonesia,0,9,0
+UA,Greece,United States,2,0,2
+VY,Croatia,Spain,3,0,3
+FZ,United Arab Emirates,Sri Lanka,0,1,0
+UX,Peru,Italy,0,7,0
+MK,United Arab Emirates,Mauritius,0,1,0
+OS,Italy,China,0,3,0
+VY,Germany,Morocco,0,1,0
+GA,United Arab Emirates,Indonesia,0,2,0
+DL,Mexico,United States,2,0,2
+IB,Spain,United States,1,8,1
+BA,Germany,United States,0,5,0
+B6,Italy,United States,0,12,0
+AZ,Italy,Ecuador,0,3,0
+KE,Japan,China,0,1,0
+2B,Italy,Azerbaijan,0,1,0
+IB,United States,United Kingdom,0,1,0
+LA,Argentina,Colombia,0,1,0
+KS,Romania,Romania,1,0,1
+IB,Cuba,Italy,1,8,1
+VY,Spain,United States,0,3,0
+EY,Italy,Japan,9,14,9
+SV,Italy,Philippines,3,12,3
+LO,Austria,Egypt,2,0,2
+AZ,Italy,United Arab Emirates,0,3,0
+G9,Italy,Kenya,0,6,0
+AF,Italy,Mauritius,5,14,5
+KE,United Arab Emirates,Japan,0,1,0
+JU,Italy,Republic of Macedonia,1,0,1
+ME,Italy,Lebanon,1,7,1
+AF,France,China,0,1,0
+FR,Jordan,Cyprus,0,1,0
+MU,New Zealand,Italy,0,2,0
+OS,Bosnia and Herzegovina,Italy,0,1,0
+FR,Italy,Israel,10,40,10
+AC,Italy,,0,1,0
+FR,Italy,United Arab Emirates,0,9,0
+LX,United States,Italy,3,1,3
+AF,Italy,Argentina,7,3,7
+FR,Italy,Iran,0,2,0
+FR,Malta,Spain,1,2,1
+W6,Italy,Canada,0,1,0
+LH,United States,Aruba,0,2,0
+AZ,Germany,,0,2,0
+AF,Brazil,Germany,0,1,0
+TK,Italy,Ivory Coast,0,1,0
+SM,Egypt,Egypt,4,11,4
+WS,Italy,Canada,3,6,3
+AF,France,Netherlands,4,1,4
+FR,Spain,Morocco,7,1,7
+AZ,Italy,Cuba,0,2,0
+TP,Italy,Venezuela,6,4,6
+WY,Italy,Australia,0,15,0
+IB,Spain,Argentina,2,1,2
+IB,Italy,France,0,1,0
+CM,Guatemala,Cuba,1,0,1
+TK,Italy,The Gambia,0,1,0
+SK,Sweden,Sweden,3,0,3
+H2,Chile,Chile,0,2,0
+QF,Australia,,0,1,0
+LH,Sweden,Tunisia,1,0,1
+U2,Greece,Spain,0,1,0
+UX,Spain,Italy,2,10,2
+EK,Italy,United States,45,13,45
+V7,Italy,France,88,81,87
+EY,Italy,Maldives,4,9,4
+TK,Italy,Venezuela,3,19,3
+LX,Czech Republic,Italy,2,1,2
+QR,Italy,Hong Kong,3,1,3
+FD,Cambodia,Thailand,0,4,0
+LH,Italy,Croatia,3,2,3
+A3,Italy,Egypt,0,4,0
+SV,Indonesia,Italy,1,0,1
+9C,China,China,2,0,2
+6H,Israel,Georgia,0,2,0
+LX,Austria,Portugal,1,0,1
+LH,Italy,Turks and Caicos Islands,0,1,0
+IB,Italy,Greece,0,1,0
+FR,Italy,China,0,1,0
+EK,India,Italy,3,14,3
+FR,Bulgaria,Croatia,1,0,1
+EK,Slovenia,Indonesia,0,7,0
+AM,Italy,El Salvador,0,1,0
+BJ,Switzerland,Tunisia,0,1,0
+LH,Romania,Germany,0,1,0
+AA,United States,Sint Maarten,2,0,2
+HV,Spain,Netherlands,1,0,1
+KL,Colombia,Switzerland,1,0,1
+W6,Spain,Albania,1,0,1
+BT,Italy,Latvia,11,2,11
+LH,Italy,Ecuador,0,8,0
+U2,Italy,Australia,0,1,0
+LO,Italy,China,0,4,0
+DE,United States,Italy,4,1,4
+QR,Italy,Australia,5,17,5
+G9,Italy,United Arab Emirates,1,2,1
+SK,Norway,Morocco,0,2,0
+JA,Uruguay,Chile,0,1,0
+5J,China,Philippines,0,1,0
+E5,Egypt,Saudi Arabia,0,1,0
+U2,Malta,Italy,9,0,9
+AM,Italy,Mexico,0,20,0
+SK,Italy,Norway,9,31,9
+9U,Italy,Georgia,0,1,0
+U2,Italy,United Arab Emirates,0,4,0
+TR,Greece,Thailand,0,3,0
+OS,Italy,Greece,3,4,3
+TK,Italy,Georgia,4,9,4
+LA,Chile,Spain,0,1,0
+FR,Italy,Moldova,0,9,0
+9U,Italy,Moldova,0,12,0
+PC,Turkey,,0,1,0
+UA,France,United States,2,0,2
+VY,Greece,Spain,1,1,1
+U2,Denmark,Italy,4,3,4
+TG,China,Thailand,0,3,0
+MT,Italy,Egypt,0,4,0
+KL,Italy,Kenya,1,0,1
+VY,Italy,French Polynesia,0,1,0
+AF,Italy,Central African Republic,0,2,0
+FR,Austria,Israel,0,2,0
+VB,Mexico,Mexico,26,10,26
+J9,Kuwait,Italy,0,14,0
+TP,Italy,Canada,3,1,3
+BA,United Kingdom,Italy,17,8,17
+OS,Italy,Germany,7,7,7
+UX,Cuba,Italy,0,1,0
+E9,Spain,Dominican Republic,2,0,2
+SK,Denmark,Faroe Islands,1,0,1
+JQ,Singapore,Japan,1,0,1
+AA,United States,Mexico,2,0,2
+E9,Cuba,Serbia,0,1,0
+RJ,United Arab Emirates,Greece,1,0,1
+TP,Spain,France,0,1,0
+DY,Norway,Morocco,0,1,0
+W6,Romania,Italy,93,67,92
+FD,Thailand,Thailand,0,46,0
+FB,Italy,Bulgaria,0,10,0
+VS,France,Mexico,0,1,0
+NO,Madagascar,Italy,0,4,0
+W6,Belgium,Italy,0,1,0
+W6,France,Austria,2,1,2
+SA,Mozambique,South Africa,0,1,0
+LH,Italy,Colombia,1,8,1
+FR,Spain,Poland,0,2,0
+LH,Italy,Austria,6,2,6
+OS,Italy,Sweden,1,1,1
+AV,Colombia,Italy,0,5,0
+AS,United States,,0,6,0
+EY,United Arab Emirates,Italy,1,1,1
+AY,Italy,Estonia,2,0,2
+TP,Venezuela,Italy,0,1,0
+NT,Portugal,Portugal,0,1,0
+FR,Hungary,Belgium,1,0,1
+QR,India,Italy,2,0,2
+AA,United States,Panama,1,0,1
+FR,Spain,Spain,74,61,73
+BY,United Kingdom,Mexico,1,0,1
+LX,Switzerland,Republic of Ireland,1,1,1
+LH,Italy,Germany,133,196,132
+TP,Luxembourg,Canada,0,1,0
+SN,Italy,Ivory Coast,4,1,4
+UA,Spain,Canada,0,3,0
+TK,Italy,Uganda,0,1,0
+A3,Greece,,0,1,0
+JU,Italy,Brazil,0,1,0
+SK,Italy,Denmark,10,47,10
+TK,Malta,Pakistan,0,1,0
+UX,Italy,Argentina,5,13,5
+W6,Jordan,Italy,0,6,0
+OZ,Japan,United States,0,3,0
+KL,Italy,Brazil,1,11,1
+WY,Turkey,Indonesia,0,1,0
+OR,Spain,Netherlands,1,0,1
+EI,United Kingdom,Italy,0,1,0
+PR,Philippines,Hong Kong,0,1,0
+LG,Luxembourg,Italy,8,6,8
+TP,Portugal,Portugal,7,8,7
+5F,Italy,Moldova,0,38,0
+6Y,Italy,Germany,0,3,0
+TK,Switzerland,Turkey,2,0,2
+V7,Greece,Greece,6,1,6
+XC,Germany,Turkey,0,1,0
+W6,Hungary,United Arab Emirates,1,1,1
+AA,United States,United Kingdom,2,0,2
+AK,Thailand,Australia,0,1,0
+IZ,Israel,Italy,1,0,1
+W6,Greece,Albania,1,0,1
+FR,Germany,Spain,2,1,2
+CI,Italy,,0,1,0
+EK,United Kingdom,Vietnam,1,0,1
+FR,United Kingdom,Czech Republic,1,1,1
+KL,Italy,Thailand,3,2,3
+AF,Italy,Switzerland,1,1,1
+SN,France,Lithuania,2,0,2
+TR,Thailand,Singapore,1,0,1
+CI,Taiwan,South Korea,1,0,1
+5J,Philippines,Italy,0,1,0
+EY,Belgium,Japan,1,0,1
+TK,Australia,Italy,0,1,0
+NO,Italy,Tanzania,11,4,11
+KL,Italy,Portugal,1,21,1
+SK,Italy,United States,6,38,6
+DY,Italy,Denmark,0,46,0
+VY,France,Spain,12,11,12
+MU,Hungary,Japan,0,4,0
+TK,Italy,China,0,3,0
+QR,Ghana,Italy,0,2,0
+W6,Estonia,Italy,4,2,4
+IB,Brazil,,0,1,0
+EW,Italy,Norway,0,2,0
+UA,Switzerland,,2,0,2
+LH,Denmark,Italy,3,1,3
+YP,South Korea,Germany,1,0,1
+5U,Honduras,Mexico,0,2,0
+SQ,Indonesia,Italy,1,1,1
+TK,Italy,France,0,1,0
+NH,Japan,Japan,0,1,0
+EI,Italy,Republic of Ireland,18,30,18
+NT,Spain,Spain,0,6,0
+LX,Spain,Thailand,2,0,2
+EK,Italy,Japan,10,7,10
+QR,Italy,Nepal,1,2,1
+VA,Australia,Italy,4,4,4
+FY,Malaysia,Malaysia,5,0,5
+TK,Turkey,France,1,0,1
+VR,Cape Verde,Portugal,0,1,0
+QR,Italy,Bangladesh,0,5,0
+TP,Italy,Argentina,0,3,0
+KM,Italy,Spain,0,2,0
+E9,Cuba,Spain,0,2,0
+AC,Canada,Germany,1,0,1
+KQ,Italy,Tanzania,0,1,0
+G9,Italy,Nepal,0,1,0
+U2,Italy,Morocco,44,13,44
+TK,Uzbekistan,Italy,0,3,0
+AZ,Spain,Italy,5,9,5
+UX,Italy,Ecuador,2,2,2
+FR,Malta,Germany,0,1,0
+LH,Germany,Mexico,0,1,0
+SQ,China,Singapore,1,0,1
+AF,Italy,Denmark,1,0,1
+"",Spain,United States,4,0,4
+B6,Mexico,Italy,0,1,0
+A3,Albania,Romania,0,1,0
+XZ,Italy,Israel,2,0,2
+HV,Denmark,Netherlands,1,0,1
+LO,Georgia,Poland,0,1,0
+FR,Morocco,Italy,27,52,27
+1L,Italy,Germany,0,7,0
+AV,Spain,Colombia,7,0,7
+LH,Italy,Ivory Coast,0,9,0
+LO,Netherlands,Montenegro,0,1,0
+AZ,Egypt,Italy,0,7,0
+U2,Denmark,Netherlands,1,0,1
+W6,Italy,Nepal,0,5,0
+AZ,Italy,Sri Lanka,0,1,0
+FR,Italy,The Gambia,0,2,0
+TK,Italy,Azerbaijan,2,0,2
+TK,China,Republic of Kosovo,0,1,0
+IU,Indonesia,Singapore,0,1,0
+VY,Italy,Italy,35,44,35
+LX,Italy,Switzerland,11,23,11
+LX,France,United States,1,0,1
+AF,Germany,Peru,1,0,1
+FZ,Sudan,Saudi Arabia,1,0,1
+KQ,Kenya,Tanzania,2,0,2
+EW,Italy,Turkey,0,1,0
+KL,Costa Rica,Italy,0,1,0
+"",Romania,Hungary,2,0,2
+OG,United Kingdom,Iceland,0,1,0
+XY,United Arab Emirates,Saudi Arabia,0,1,0
+TP,Portugal,Spain,0,3,0
+FR,Italy,India,0,2,0
+BR,Thailand,Netherlands,0,1,0
+AZ,Italy,Netherlands,24,66,24
+TR,Australia,Italy,0,2,0
+DY,Italy,Sweden,0,25,0
+D7,Australia,Italy,0,9,0
+SG,India,Japan,0,1,0
+FR,Greece,Malta,0,3,0
+TS,Canada,United States,3,1,3
+FR,Italy,Colombia,0,10,0
+LY,United Arab Emirates,Italy,0,2,0
+KL,Italy,Republic of Ireland,2,0,2
+JQ,Cambodia,Singapore,1,0,1
+LH,Switzerland,Colombia,0,1,0
+KE,South Korea,Italy,0,1,0
+TK,France,Turkey,0,1,0
+KL,Italy,Ecuador,3,7,3
+GF,Italy,Thailand,0,17,0
+EK,Vietnam,Italy,1,1,1
+IB,Spain,Peru,1,0,1
+EK,Italy,China,7,1,7
+DE,Germany,,0,1,0
+UL,Sri Lanka,Italy,1,0,1
+TK,Germany,Turkey,0,2,0
+FR,Poland,United Kingdom,2,0,2
+OS,Greece,Italy,0,1,0
+MM,Japan,Japan,0,9,0
+AV,Colombia,Colombia,7,19,7
+QR,Italy,Mozambique,0,1,0
+AV,Guatemala,Guatemala,2,2,2
+RO,Italy,Japan,0,1,0
+6E,Italy,Singapore,3,0,3
+FR,France,United Kingdom,2,0,2
+FR,Sweden,Morocco,0,1,0
+DL,France,Canada,1,0,1
+ET,Switzerland,Italy,1,0,1
+SK,Italy,France,0,1,0
+AF,France,Canada,1,0,1
+KL,Colombia,Italy,1,5,1
+LO,Netherlands,Moldova,0,1,0
+EN,Germany,Italy,4,0,4
+KE,South Korea,Japan,0,2,0
+AF,Italy,Ivory Coast,2,1,2
+PR,Philippines,Thailand,0,1,0
+LA,Peru,Colombia,0,1,0
+TK,Estonia,China,0,2,0
+U2,Italy,South Korea,0,1,0
+SN,Italy,Norway,0,1,0
+AC,United Kingdom,Chile,0,1,0
+YL,Tunisia,Libya,0,1,0
+A3,Belgium,Greece,0,1,0
+IB,Colombia,Belgium,1,0,1
+MF,Italy,China,0,7,0
+UK,United Arab Emirates,Singapore,0,1,0
+FR,Italy,Luxembourg,10,23,10
+VY,France,Germany,2,1,2
+IB,Colombia,Spain,1,2,1
+B6,Sint Maarten,United States,0,1,0
+QZ,Singapore,,0,3,0
+TP,Colombia,Italy,0,1,0
+5J,Singapore,Japan,1,0,1
+FR,Austria,Italy,29,52,29
+KL,Italy,Indonesia,1,2,1
+TK,Italy,Iran,1,8,1
+VY,Argentina,Italy,0,2,0
+KL,France,Rwanda,1,2,1
+LX,Italy,Czech Republic,1,0,1
+SI,Republic of Ireland,Jersey,1,0,1
+UK,Thailand,United Arab Emirates,1,1,1
+FR,Germany,Luxembourg,0,1,0
+WJ,Argentina,Brazil,0,1,0
+AZ,Italy,Aruba,0,1,0
+V7,France,Spain,1,0,1
+A3,Greece,Greece,7,12,7
+2B,Italy,Albania,0,107,0
+CY,Italy,Cyprus,3,39,3
+TU,Ivory Coast,Italy,0,1,0
+X3,Germany,Spain,0,4,0
+TK,Spain,Turkey,1,0,1
+LH,Italy,Namibia,4,3,4
+EY,Belgium,,1,0,1
+Q6,Costa Rica,Mexico,0,1,0
+VY,United Kingdom,France,1,0,1
+FZ,Bahrain,Lebanon,0,1,0
+FM,China,China,0,1,0
+3O,Morocco,Italy,34,8,34
+VZ,Thailand,Italy,0,2,0
+U2,Italy,Israel,13,2,13
+FR,Italy,Indonesia,0,4,0
+BA,Chile,Italy,0,3,0
+TS,Canada,France,0,5,0
+2B,Italy,Thailand,0,1,0
+KM,Czech Republic,Malta,0,2,0
+WF,Italy,Norway,0,1,0
+OK,Egypt,Czech Republic,0,1,0
+VY,Italy,Cyprus,0,1,0
+NO,Jamaica,Italy,1,0,1
+TP,Belgium,Portugal,0,1,0
+W6,Italy,Germany,8,30,8
+EW,Denmark,Germany,0,1,0
+AZ,Albania,Italy,2,4,2
+UX,Dominican Republic,Italy,0,7,0
+SN,Italy,Togo,1,0,1
+LH,Czech Republic,Italy,1,1,1
+AZ,Italy,Sweden,0,1,0
+HV,Austria,Netherlands,1,0,1
+GM,Switzerland,Egypt,0,1,0
+NT,Senegal,Spain,0,1,0
+TI*,Germany,Turkey,0,7,0
+HV,Spain,France,4,3,4
+FR,Belgium,,0,3,0
+LH,Italy,Turkey,5,2,5
+KL,Italy,Sweden,3,0,3
+W6,Austria,France,3,0,3
+MU,Italy,Indonesia,0,1,0
+UX,Portugal,Spain,1,0,1
+MH,Australia,Italy,0,1,0
+AD,Brazil,Italy,0,10,0
+6E,Thailand,Italy,0,5,0
+FB,Netherlands,Italy,0,5,0
+MU,Italy,,0,2,0
+ZB,Albania,Italy,0,12,0
+AY,South Korea,Italy,1,0,1
+LH,Romania,Belgium,0,2,0
+FR,Greece,Spain,0,2,0
+CX,Vietnam,Italy,0,2,0
+SK,Italy,Greece,0,2,0
+TK,Vietnam,Italy,1,2,1
+AT,The Gambia,Italy,1,0,1
+AK,Cambodia,Italy,0,1,0
+RJ,Italy,Egypt,2,2,2
+DD,Thailand,Thailand,3,7,3
+PC,Cyprus,Turkey,2,0,2
+QR,Italy,Malaysia,4,8,4
+B6,United States,Aruba,0,3,0
+W6,Italy,Ethiopia,0,1,0
+LH,Italy,Singapore,0,1,0
+LX,Italy,Belgium,0,2,0
+FR,Austria,Malta,0,1,0
+BF,United States,French Polynesia,0,1,0
+GF,Italy,Maldives,0,3,0
+W6,France,Portugal,0,1,0
+QZ,Thailand,Indonesia,0,2,0
+LX,Argentina,Italy,0,1,0
+KL,Italy,South Africa,16,6,16
+JU,Italy,Greece,0,24,0
+FR,Sweden,Italy,13,11,13
+EY,Italy,South Korea,7,4,7
+LA,Colombia,Spain,0,1,0
+FR,Germany,Tunisia,0,1,0
+TK,Italy,Mauritius,0,4,0
+LA,Brazil,,0,6,0
+AY,United States,Spain,0,1,0
+2B,Italy,United Arab Emirates,0,1,0
+AM,Italy,Peru,0,5,0
+FR,Luxembourg,Italy,4,11,4
+SQ,Italy,Indonesia,3,10,3
+EK,Italy,Malaysia,4,3,4
+W6,Italy,India,0,21,0
+TK,Mexico,Italy,0,1,0
+AZ,Bulgaria,Italy,0,1,0
+EY,Germany,Thailand,1,0,1
+TK,Albania,United Arab Emirates,0,1,0
+U2,United Kingdom,France,9,0,9
+AT,Italy,Ivory Coast,0,6,0
+LH,Italy,Poland,9,6,9
+U2,Italy,Argentina,0,1,0
+W2,Spain,Spain,0,2,0
+KL,Netherlands,Norway,1,0,1
+TK,Malta,Turkey,0,1,0
+6E,Sri Lanka,,0,1,0
+IB,Portugal,Brazil,1,0,1
+MS,Greece,China,0,1,0
+EK,Sri Lanka,United Kingdom,1,0,1
+WY,Malaysia,Italy,2,0,2
+W6,Kuwait,Italy,0,1,0
+SK,Norway,Italy,1,3,1
+AV,Argentina,United States,0,1,0
+AZ,United States,,0,2,0
+AT,Italy,The Gambia,0,11,0
+U2,United Kingdom,United Kingdom,3,0,3
+OS,United States,Italy,0,2,0
+JQ,Indonesia,Australia,7,1,7
+BF,France,French Polynesia,1,0,1
+U2,Italy,Saudi Arabia,0,1,0
+UX,France,Italy,0,1,0
+VY,Argentina,Greece,0,1,0
+DE,Italy,Maldives,3,0,3
+SV,Italy,Oman,1,0,1
+FR,Germany,France,0,1,0
+FR,Serbia,Italy,0,1,0
+BA,Greece,United Kingdom,1,0,1
+SK,France,Sweden,1,0,1
+CM,Brazil,United States,1,0,1
+SQ,Italy,Australia,81,9,80
+G9,Italy,Malaysia,15,2,15
+CZ,China,,0,1,0
+LX,France,Italy,6,0,6
+VY,Italy,Algeria,0,1,0
+VJ,Vietnam,,0,4,0
+OA,Cyprus,Italy,0,3,0
+MU,China,China,0,3,0
+AC,Italy,Costa Rica,0,1,0
+SK,Italy,Canada,1,2,1
+KL,Switzerland,United States,0,5,0
+PC,Belgium,Turkey,1,0,1
+NP,Sweden,Egypt,0,2,0
+W6,Spain,Romania,1,0,1
+W6,Portugal,Italy,26,4,26
+WY,Italy,Oman,0,4,0
+CM,Colombia,Panama,2,4,2
+2W,Dominican Republic,Spain,0,6,0
+EY,Italy,Malaysia,5,3,5
+Z2,Philippines,South Korea,0,1,0
+LO,Moldova,Poland,1,2,1
+RJ,Jordan,Greece,1,0,1
+AV,Mexico,Costa Rica,1,0,1
+PC,Italy,Armenia,0,1,0
+DY,Germany,Albania,0,1,0
+U2,Serbia,Switzerland,1,0,1
+EK,Italy,Nepal,0,1,0
+AT,Italy,Senegal,1,6,1
+RJ,Lebanon,Jordan,0,1,0
+UX,Spain,Portugal,1,2,1
+EK,Cambodia,Italy,0,1,0
+AK,Thailand,Italy,0,3,0
+1L,France,Montenegro,0,1,0
+SN,Belgium,Portugal,1,1,1
+CI,Indonesia,Italy,0,1,0
+TP,Brazil,Austria,0,5,0
+LH,Italy,South Africa,1,4,1
+LX,Italy,Greece,1,0,1
+KL,Italy,France,2,5,2
+FR,Spain,Germany,5,0,5
+AV,Costa Rica,Spain,4,0,4
+AH,Algeria,Algeria,0,1,0
+JU,Hungary,Albania,0,1,0
+TP,Portugal,Italy,24,35,24
+EW,Italy,Croatia,1,0,1
+KQ,Italy,Kenya,12,14,12
+EW,Norway,Italy,0,3,0
+SK,Denmark,Norway,1,0,1
+AF,Germany,Italy,1,0,1
+NH,Germany,Japan,2,0,2
+KL,Italy,Norway,5,2,5
+SV,Italy,Kenya,3,4,3
+W9,United Kingdom,Romania,1,1,1
+U2,France,Greece,4,1,4
+AY,United States,Sint Maarten,0,1,0
+DL,Italy,Brazil,1,0,1
+W6,Cyprus,Czech Republic,1,0,1
+U8,Italy,,0,1,0
+EY,Italy,Thailand,30,27,30
+TP,Italy,The Gambia,0,2,0
+AA,United States,United States,62,0,61
+TK,Japan,Germany,1,0,1
+ME,United Arab Emirates,Lebanon,2,0,2
+TP,Austria,Portugal,1,0,1
+BJ,Germany,Tunisia,0,1,0
+FD,Thailand,,0,2,0
+B6,Puerto Rico,Italy,0,1,0
+G9,United Arab Emirates,Italy,1,0,1
+LX,Italy,Thailand,44,43,44
+TS,Italy,Canada,37,7,37
+UK,India,India,0,1,0
+T7,Italy,France,0,7,0
+PC,Germany,,0,1,0
+AF,Italy,Aruba,0,1,0
+TK,Italy,Israel,2,0,2
+AZ,Italy,Taiwan,0,1,0
+WY,India,Italy,0,2,0
+Z0,United Kingdom,United States,7,2,7
+OS,Netherlands,Italy,0,1,0
+VY,Argentina,Spain,0,1,0
+VY,Spain,Spain,74,47,73
+HV,Italy,Netherlands,42,25,42
+IB,Argentina,Italy,10,6,10
+OU,Croatia,Italy,0,1,0
+ET,India,Italy,1,1,1
+LH,United Kingdom,Germany,1,2,1
+DE,Germany,Greece,0,1,0
+CA,United Kingdom,Japan,0,1,0
+EI,Portugal,Italy,0,2,0
+EK,Switzerland,Namibia,0,1,0
+EI,Republic of Ireland,Belgium,1,0,1
+ET,Italy,Seychelles,11,15,11
+UX,Portugal,Italy,0,13,0
+FZ,United Arab Emirates,Armenia,0,1,0
+MF,Italy,,0,1,0
+LH,Italy,Malta,1,1,1
+QR,Italy,Kenya,0,1,0
+AZ,Maldives,Italy,0,1,0
+EY,Netherlands,Malaysia,1,0,1
+KL,Netherlands,Italy,18,15,18
+AF,Italy,Peru,6,21,6
+QR,Italy,Vietnam,4,14,4
+EW,Italy,Spain,0,14,0
+FZ,Saudi Arabia,India,1,0,1
+PC,Turkey,Spain,2,2,2
+AF,Mexico,Italy,2,2,2
+GF,Italy,Bahrain,0,2,0
+QR,Italy,Tanzania,0,3,0
+FR,Bulgaria,Austria,2,0,2
+KQ,Italy,Madagascar,0,1,0
+FR,Italy,Bosnia and Herzegovina,0,1,0
+FR,United Kingdom,Republic of Ireland,2,1,2
+QR,Austria,Namibia,0,1,0
+V7,Algeria,Italy,0,1,0
+DE,Poland,Jamaica,1,0,1
+UA,Australia,Argentina,1,0,1
+FR,Sweden,Sweden,0,2,0
+HC,Sierra Leone,Senegal,0,5,0
+SK,Italy,Iceland,6,25,6
+TK,United Arab Emirates,Italy,0,1,0
+AR,Uruguay,Italy,0,1,0
+NZ,Italy,New Zealand,0,1,0
+TK,Romania,Turkey,0,2,0
+PC,Turkey,Denmark,1,0,1
+LO,United States,Poland,0,2,0
+UA,Switzerland,Mexico,1,0,1
+QR,Italy,Iran,0,3,0
+AZ,Argentina,United Kingdom,1,2,1
+FZ,Azerbaijan,Iraq,0,1,0
+BA,Sweden,United Kingdom,1,0,1
+AF,France,Spain,1,0,1
+7G,Japan,Japan,0,1,0
+FR,Italy,Norway,10,27,10
+FJ,Hong Kong,Fiji,0,1,0
+AF,France,South Africa,1,2,1
+FD,Laos,Malaysia,0,2,0
+QR,Italy,Pakistan,1,2,1
+A3,Italy,Lebanon,0,2,0
+LH,Italy,Botswana,0,1,0
+CY,Egypt,Greece,0,2,0
+AZ,Argentina,Italy,6,15,6
+2W,Spain,Mexico,0,2,0
+W6,Israel,Italy,19,9,19
+LX,Italy,Hungary,0,1,0
+TK,Turkey,Germany,0,2,0
+HV,Italy,Portugal,0,3,0
+PR,Thailand,Japan,0,2,0
+RO,Moldova,Spain,0,1,0
+U8,Israel,Italy,0,2,0
+W6,Italy,Afghanistan,0,2,0
+AF,Morocco,France,1,0,1
+ET,Italy,Namibia,2,8,2
+LH,Italy,Czech Republic,2,2,2
+KM,Italy,Cyprus,0,1,0
+AC,Netherlands,Canada,0,1,0
+AF,Italy,Senegal,1,0,1
+KU,Kuwait,Italy,1,1,1
+AF,Panama,Italy,1,0,1
+VY,United Kingdom,The Gambia,0,3,0
+TX,France,Guadeloupe,0,1,0
+AA,United Kingdom,United States,1,0,1
+5F,Italy,,0,1,0
+TM,Mozambique,South Africa,0,3,0
+Z9,Malaysia,,0,1,0
+W6,Poland,Cyprus,5,0,5
+GA,Australia,Italy,0,1,0
+NT,Spain,Italy,0,3,0
+TR,Australia,Singapore,0,2,0
+W6,Romania,France,2,0,2
+W6,Italy,Turkey,0,5,0
+HV,Slovenia,Netherlands,1,1,1
+AZ,Italy,Jamaica,0,3,0
+W6,Poland,Netherlands,0,1,0
+HV,Slovenia,France,1,0,1
+MK,Italy,Mauritius,17,10,17
+LH,Italy,Sri Lanka,0,3,0
+"",United States,Spain,6,0,6
+VY,Italy,Argentina,2,6,2
+AI,Italy,Australia,0,4,0
+UA,Italy,Guatemala,0,5,0
+U2,Italy,Madagascar,0,1,0
+AA,Spain,,2,0,2
+HV,Italy,Morocco,0,3,0
+FZ,Pakistan,Italy,0,2,0
+KM,Switzerland,Italy,0,1,0
+NO,Italy,China,1,2,1
+PC,Italy,United Arab Emirates,1,1,1
+AZ,Serbia,Switzerland,0,1,0
+AF,Italy,Vietnam,0,1,0
+QZ,Indonesia,Singapore,0,1,0
+LH,Switzerland,Italy,0,4,0
+EK,Spain,Thailand,2,0,2
+LH,France,Italy,2,0,2
+KE,Italy,,0,1,0
+XR,Spain,Germany,2,0,2
+GF,Turkey,Bangladesh,0,1,0
+KL,Italy,Hungary,1,0,1
+PG,Thailand,Thailand,24,49,24
+TA,United States,Costa Rica,1,0,1
+NT,Italy,Spain,0,11,0
+EK,Italy,Tanzania,6,13,6
+W6,Cyprus,Italy,0,10,0
+BR,Italy,Taiwan,0,3,0
+HV,France,Algeria,1,0,1
+IB,Spain,Cuba,2,1,2
+TK,Italy,Sri Lanka,0,4,0
+AF,Italy,Sint Maarten,0,5,0
+TP,Italy,Colombia,0,2,0
+SK,Denmark,Sweden,1,0,1
+OS,Moldova,Italy,0,1,0
+LX,Austria,Italy,0,2,0
+EN,Italy,Poland,0,1,0
+EK,Germany,India,1,0,1
+XQ,Turkey,Italy,1,2,1
+A3,Greece,Albania,3,0,3
+FI,Belgium,United States,3,0,3
+BC,Japan,Japan,3,1,3
+AF,Italy,China,0,1,0
+BZ,Israel,Italy,1,0,1
+U2,Cyprus,Italy,6,0,6
+FR,Belgium,Croatia,1,0,1
+LH,Italy,Jordan,3,0,3
+FR,United Kingdom,Austria,2,0,2
+IB,United States,Italy,2,3,2
+LH,Italy,South Korea,5,10,5
+FD,Thailand,Malaysia,0,1,0
+LH,United States,Germany,2,0,2
+LH,Italy,Estonia,1,0,1
+WF,Italy,Estonia,0,1,0
+FR,Republic of Ireland,Greece,0,1,0
+W6,Saudi Arabia,United Arab Emirates,0,1,0
+3O,Turkey,Morocco,1,0,1
+PC,Italy,Iraq,0,3,0
+JU,Italy,Croatia,1,3,1
+BA,Italy,Hong Kong,0,1,0
+AF,United Kingdom,United States,0,1,0
+FR,France,Spain,6,4,6
+U2,Italy,Czech Republic,49,4,49
+EK,Italy,United Arab Emirates,25,38,25
+MS,Italy,,0,5,0
+ET,Italy,Cameroon,0,1,0
+PR,Philippines,United States,0,1,0
+5W,United Arab Emirates,Turkey,1,0,1
+SN,United Kingdom,United States,0,3,0
+KL,Italy,United Arab Emirates,2,3,2
+V7,Spain,Greece,1,0,1
+JA,Chile,Chile,1,0,1
+YP,Japan,South Korea,0,1,0
+U2,United Kingdom,Albania,3,0,3
+SL,Thailand,Thailand,0,4,0
+CA,Japan,Italy,0,6,0
+BA,Italy,Barbados,2,0,2
+HV,Greece,Morocco,0,2,0
+OS,Austria,Egypt,0,2,0
+MT,Egypt,Italy,0,1,0
+KU,Thailand,Italy,1,0,1
+1L,Serbia,Montenegro,0,2,0
+HY,Kyrgyzstan,Uzbekistan,0,1,0
+BT,Italy,Lithuania,0,1,0
+MU,China,Thailand,0,1,0
+AK,Cambodia,Malaysia,0,1,0
+W6,Portugal,Hungary,1,0,1
+AF,Italy,France,198,154,196
+XQ,Turkey,,0,3,0
+KL,Italy,Sint Maarten,0,1,0
+VY,Italy,Denmark,3,1,3
+OS,Italy,Iceland,1,0,1
+FR,Norway,Italy,3,7,3
+PC,Italy,Lebanon,1,4,1
+EK,Germany,,0,2,0
+U2,Italy,Poland,0,1,0
+IB,Spain,Hungary,0,1,0
+CI,Taiwan,Singapore,0,1,0
+AF,Italy,Egypt,0,1,0
+W6,United Kingdom,Italy,83,22,82
+EN,Austria,Germany,1,0,1
+TK,Italy,Nigeria,0,2,0
+LH,Finland,Italy,2,0,2
+MH,Malaysia,China,0,2,0
+FR,Latvia,Italy,1,5,1
+LH,Germany,Austria,2,0,2
+QR,Italy,Oman,0,1,0
+HA,United States,,0,4,0
+FR,Italy,Turkey,0,20,0
+TP,Brazil,Italy,11,38,11
+U2,Czech Republic,Italy,18,0,18
+U2,Croatia,Italy,13,2,13
+DL,United States,Italy,12,0,12
+PG,Cambodia,Thailand,1,1,1
+AV,United States,Peru,2,0,2
+UX,Italy,Chile,0,1,0
+LH,Portugal,Italy,1,0,1
+AT,France,Morocco,4,2,4
+AV,Spain,Ecuador,2,0,2
+U2,Spain,Switzerland,4,0,4
+EK,Australia,Italy,2,3,2
+AZ,Argentina,France,0,3,0
+OR,Netherlands,Aruba,1,0,1
+AM,Netherlands,Mexico,0,1,0
+BR,Italy,Japan,0,14,0
+GF,Pakistan,Italy,0,3,0
+EW,Italy,Greece,0,2,0
+KL,Italy,Guatemala,1,12,1
+JQ,Singapore,Thailand,1,2,1
+BA,Spain,United Kingdom,1,0,1
+CY,Egypt,Italy,0,3,0
+DL,United Kingdom,Canada,1,0,1
+LH,Estonia,Italy,2,0,2
+W6,France,Cyprus,1,0,1
+NO,Greece,Italy,4,2,4
+SV,Italy,Saudi Arabia,1,3,1
+RO,Italy,Romania,0,9,0
+LH,Italy,Finland,6,7,6
+VY,Senegal,Italy,2,1,2
+AF,Italy,El Salvador,0,2,0
+QR,Spain,Thailand,1,0,1
+E9,Spain,Costa Rica,0,1,0
+BY,United Kingdom,Italy,4,0,4
+W6,Italy,Kyrgyzstan,0,1,0
+"",United States,Italy,5,0,5
+SQ,Italy,Philippines,4,2,4
+JU,Serbia,France,0,1,0
+SA,Namibia,South Africa,0,3,0
+SV,Egypt,Saudi Arabia,1,0,1
+AZ,India,Italy,0,2,0
+4Z,Uganda,Mozambique,0,1,0
+AK,Singapore,Malaysia,0,1,0
+VY,Italy,Croatia,36,49,36
+W6,Georgia,Poland,1,0,1
+EY,Italy,Seychelles,22,49,22
+CM,Panama,France,0,4,0
+LH,Germany,Czech Republic,0,1,0
+JA,Peru,Chile,3,2,3
+W6,Germany,Albania,2,2,2
+FR,Austria,Spain,2,0,2
+SK,United Kingdom,Italy,0,1,0
+UX,Netherlands,Tunisia,1,0,1
+AY,Lithuania,Italy,1,0,1
+OV,Oman,Oman,1,0,1
+EY,Italy,United Arab Emirates,47,2,47
+SQ,Italy,Spain,28,3,28
+PC,Italy,Republic of Kosovo,1,1,1
+UX,Italy,Bolivia,2,2,2
+AZ,Italy,Malta,2,17,2
+AV,Ecuador,Ecuador,4,0,4
+VY,Spain,Portugal,1,2,1
+PC,Italy,Nepal,0,2,0
+NO,Italy,Jamaica,4,0,4
+U2,Czech Republic,Netherlands,1,0,1
+FR,Republic of Ireland,Spain,1,2,1
+ZB,Germany,Albania,0,1,0
+FR,Italy,Finland,15,18,15
+U2,Greece,Italy,105,3,104
+AM,Mexico,Mexico,0,7,0
+FR,Italy,Faroe Islands,0,2,0
+WY,Italy,Tanzania,0,16,0
+MH,Italy,Indonesia,0,1,0
+KL,Germany,United States,1,1,1
+EK,Germany,Mauritius,1,0,1
+OS,Armenia,Italy,0,2,0
+W9,United Kingdom,Italy,3,1,3
+EK,Germany,Thailand,1,0,1
+FR,Italy,Ivory Coast,0,2,0
+LH,Albania,Italy,1,0,1
+DL,Germany,Mexico,1,0,1
+A3,Romania,Greece,0,1,0
+FR,France,Italy,36,124,36
+EY,Thailand,Italy,1,6,1
+SQ,Singapore,Thailand,0,1,0
+VY,Italy,Ecuador,0,1,0
+4Z,South Africa,Namibia,0,7,0
+W2,Italy,Italy,0,9,0
+LH,Italy,Norway,11,6,11
+SK,Denmark,Italy,1,5,1
+LH,Bosnia and Herzegovina,Italy,0,1,0
+UX,Italy,United States,1,2,1
+DY,Norway,Latvia,0,1,0
+GA,Indonesia,Italy,1,0,1
+KL,Italy,China,0,2,0
+OS,Poland,Italy,1,2,1
+RJ,Saudi Arabia,Lebanon,0,2,0
+SV,Egypt,Thailand,0,1,0
+JU,Italy,Romania,0,1,0
+NO,Kazakhstan,Italy,1,0,1
+AF,France,Germany,1,0,1
+VY,Italy,Curaçao,1,0,1
+LA,Colombia,Italy,0,8,0
+BJ,Tunisia,France,0,3,0
+UX,Italy,,0,3,0
+QF,Italy,,0,6,0
+AC,United States,Canada,0,1,0
+U2,Italy,Algeria,0,2,0
+SG,India,Turkey,0,1,0
+FR,Malta,United Kingdom,0,1,0
+MH,Singapore,Indonesia,1,0,1
+EW,Iceland,Italy,1,0,1
+NO,Italy,Greece,21,20,21
+JQ,Australia,Australia,13,17,13
+AD,Italy,Brazil,0,2,0
+FR,Hungary,United Kingdom,2,0,2
+KX,United States,Cayman Islands,0,1,0
+LA,Argentina,Germany,2,1,2
+TG,Germany,Japan,0,2,0
+LX,Netherlands,Italy,0,2,0
+A3,Netherlands,Greece,0,1,0
+IB,Brazil,Italy,2,0,2
+A9,Austria,Georgia,0,1,0
+OS,Italy,Canada,0,1,0
+OZ,Japan,Italy,1,5,1
+5J,Malaysia,United Arab Emirates,1,2,1
+HY,Uzbekistan,Italy,0,1,0
+TK,Turkey,Indonesia,1,0,1
+TP,Portugal,,0,1,0
+JU,Italy,Israel,0,1,0
+FH,Germany,Turkey,3,0,3
+ET,Ethiopia,Italy,1,0,1
+JU,Italy,Cyprus,0,5,0
+KM,Malta,United Kingdom,0,1,0
+AF,Italy,Bolivia,0,2,0
+LA,Italy,Ecuador,0,2,0
+9U,Moldova,United Kingdom,0,1,0
+MS,Italy,Eritrea,0,3,0
+SK,Denmark,Germany,0,1,0
+W6,Italy,Norway,0,1,0
+EI,United Kingdom,Republic of Ireland,2,0,2
+CA,Italy,Hong Kong,0,8,0
+LX,Italy,Sweden,5,2,5
+KL,Italy,Hong Kong,0,3,0
+HV,France,Greece,3,2,3
+U2,Germany,Denmark,1,0,1
+TC,Tanzania,,0,1,0
+DE,Spain,Germany,1,0,1
+AT,Morocco,Western Sahara,1,0,1
+OD,Malaysia,Australia,0,1,0
+AH,Ivory Coast,Italy,0,1,0
+XZ,Italy,Italy,672,40,665
+U2,Italy,Faroe Islands,0,4,0
+AA,United States,Colombia,2,0,2
+W6,Georgia,Italy,2,2,2
+TR,Singapore,Malaysia,0,1,0
+U2,Morocco,France,1,0,1
+AZ,Portugal,Italy,0,6,0
+IB,Bolivia,Italy,0,1,0
+SV,Italy,Tanzania,0,3,0
+MU,Italy,New Zealand,0,1,0
+U2,Croatia,Netherlands,2,0,2
+PC,Italy,Greece,0,1,0
+LX,Italy,Portugal,0,1,0
+AT,Morocco,Canada,1,0,1
+SK,Norway,Sweden,2,2,2
+GM,Switzerland,Spain,0,1,0
+A3,Italy,Greece,53,219,52
+XZ,Italy,Greece,86,14,85
+AV,Chile,Spain,1,0,1
+OS,Italy,United States,0,9,0
+QZ,Indonesia,Australia,0,2,0
+AI,India,India,0,1,0
+AA,Cuba,The Bahamas,1,0,1
+FR,United Kingdom,Albania,0,1,0
+BY,Italy,United Kingdom,4,0,4
+AY,Singapore,Italy,1,0,1
+IU,Indonesia,Indonesia,0,3,0
+KL,Germany,Portugal,1,0,1
+AZ,Italy,Germany,15,57,15
+LH,Germany,Greece,1,1,1
+TK,Iran,,0,6,0
+OS,Italy,Czech Republic,0,10,0
+VN,Italy,Vietnam,0,44,0
+TR,Singapore,Australia,2,1,2
+BF,France,United States,2,0,2
+AY,Italy,Singapore,3,1,3
+EK,Albania,India,5,0,5
+TK,Georgia,Italy,3,3,3
+A3,Egypt,Greece,1,0,1
+QZ,Indonesia,,0,1,0
+UK,India,Canada,0,1,0
+SV,Italy,Bahrain,0,1,0
+FZ,Italy,United Arab Emirates,10,40,10
+AC,Martinique,Canada,1,3,1
+AZ,Italy,Guatemala,0,3,0
+LA,Peru,Italy,1,15,1
+PG,Cambodia,Italy,0,2,0
+NO,Italy,Cape Verde,3,2,3
+IZ,United Arab Emirates,Israel,0,1,0
+JU,Spain,Italy,0,2,0
+SN,Italy,Ghana,1,0,1
+AA,Switzerland,Canada,2,0,2
+AF,Italy,India,1,0,1
+IB,Italy,Cuba,24,17,24
+LO,Italy,Japan,0,42,0
+OS,Italy,Albania,4,0,4
+FR,Italy,Georgia,0,7,0
+GF,Italy,Pakistan,0,5,0
+OD,Sri Lanka,Maldives,0,4,0
+LH,Italy,Dominican Republic,2,3,2
+W2,Italy,Greece,0,2,0
+FR,France,France,0,4,0
+QF,Italy,Australia,0,7,0
+FR,Netherlands,Spain,1,0,1
+9U,Azerbaijan,Italy,0,3,0
+TK,Italy,India,7,5,7
+AF,France,Norway,1,2,1
+BA,United Kingdom,United States,2,0,2
+AK,Vietnam,United Arab Emirates,0,1,0
+"",Italy,United States,4,0,4
+OZ,South Korea,Italy,1,4,1
+EK,United Arab Emirates,New Zealand,1,0,1
+KL,Italy,Aruba,3,1,3
+U2,Netherlands,Switzerland,1,0,1
+EY,Malaysia,Italy,3,1,3
+BA,Belgium,,1,0,1
+FR,Italy,France,344,680,341
+FR,Republic of Ireland,Italy,24,31,24
+HV,Slovenia,,0,1,0
+LX,Italy,Luxembourg,6,8,6
+FR,Italy,South Korea,0,3,0
+AF,Italy,Martinique,1,2,1
+OS,Hungary,Austria,1,2,1
+LA,Spain,Argentina,3,2,3
+PG,Thailand,,0,3,0
+BA,Germany,United Kingdom,3,1,3
+KC,Uzbekistan,Kazakhstan,1,2,1
+3O,Morocco,Morocco,3,1,3
+LH,Thailand,Italy,1,0,1
+W6,Egypt,Italy,29,23,29
+TK,Italy,Mexico,3,3,3
+TP,Italy,Cape Verde,5,8,5
+W6,Italy,Serbia,11,13,11
+FR,Italy,Peru,0,2,0
+OS,Italy,Jordan,1,0,1
+NO,Italy,India,1,0,1
+KL,Italy,Ghana,0,1,0
+G9,Italy,Australia,0,1,0
+PC,France,Georgia,0,1,0
+5W,Albania,United Arab Emirates,1,0,1
+FR,Poland,Greece,1,1,1
+UX,Italy,Brazil,6,21,6
+VY,Portugal,Italy,2,7,2
+FR,Denmark,,0,1,0
+FR,Romania,Italy,25,35,25
+LX,France,Turkey,1,0,1
+W6,Greece,Cyprus,2,0,2
+UA,Costa Rica,Italy,0,2,0
+FR,Latvia,Spain,1,0,1
+LH,Portugal,Poland,1,0,1
+FR,Poland,Cyprus,1,0,1
+JQ,Malaysia,Singapore,5,1,5
+Z2,Philippines,Philippines,0,14,0
+CZ,Italy,Dominican Republic,0,1,0
+BF,United States,France,1,0,1
+LH,Germany,Croatia,1,1,1
+KU,Italy,Bangladesh,0,1,0
+"",Dominican Republic,Colombia,1,0,1
+IB,Argentina,Spain,2,1,2
+EN,Italy,Canada,0,4,0
+BQ,Italy,Italy,1,0,1
+OS,Italy,Austria,28,51,28
+6E,Italy,India,13,24,13
+SQ,Japan,Italy,3,0,3
+JU,Greece,Italy,2,10,2
+W6,Turkey,Italy,0,9,0
+F9,United States,United States,1,5,1
+EN,Italy,Japan,0,14,0
+W6,Italy,Lithuania,3,2,3
+QF,Italy,United States,0,7,0
+SS,Barbados,Italy,0,1,0
+KM,Malta,Netherlands,0,2,0
+"",Switzerland,Republic of Kosovo,2,0,2
+5J,United Arab Emirates,Indonesia,1,0,1
+AF,France,Réunion,1,0,1
+BR,Taiwan,United Kingdom,0,2,0
+9I,India,Italy,0,1,0
+LH,Italy,Egypt,8,27,8
+QR,Italy,India,0,6,0
+TK,Republic of Kosovo,China,1,3,1
+UX,Switzerland,Dominican Republic,0,1,0
+QZ,Indonesia,Indonesia,0,12,0
+JQ,Indonesia,Singapore,2,3,2
+LX,Portugal,Italy,1,1,1
+S4,Portugal,Portugal,0,4,0
+YP,South Korea,Japan,0,4,0
+EW,Sweden,Italy,2,5,2
+QR,United States,Saudi Arabia,0,1,0
+3L,India,Italy,0,3,0
+E9,Cuba,Italy,0,16,0
+AZ,Italy,United Kingdom,12,26,12
+TK,Italy,Mongolia,2,3,2
+AF,Italy,Norway,3,1,3
+TB,Morocco,Italy,0,4,0
+TG,Germany,Thailand,0,3,0
+W6,Jordan,Hungary,5,0,5
+AT,Morocco,Morocco,4,1,4
+CM,Colombia,Italy,0,2,0
+QZ,Indonesia,Italy,0,2,0
+A3,Italy,,0,2,0
+LH,Germany,Egypt,1,0,1
+SK,Norway,Netherlands,0,1,0
+W6,Israel,Greece,0,1,0
+TK,Germany,Iran,0,1,0
+FD,Thailand,Singapore,0,1,0
+W6,Romania,United Kingdom,19,1,19
+ET,Italy,Republic of the Congo,0,1,0
+FR,Italy,Iceland,0,9,0
+AC,Canada,Italy,0,8,0
+U2,Germany,Spain,2,0,2
+FR,Sweden,Denmark,0,1,0
+TK,Brazil,Italy,0,2,0
+TK,Italy,Hong Kong,1,0,1
+AY,Norway,Italy,0,1,0
+RJ,Italy,United Arab Emirates,0,1,0
+TK,Egypt,Turkey,0,1,0
+SN,Italy,Czech Republic,0,1,0
+AC,United States,Colombia,0,1,0
+TB,Belgium,Dominican Republic,0,2,0
+LH,Germany,Luxembourg,1,0,1
+FZ,Italy,Tanzania,4,7,4
+VY,Italy,Guatemala,1,0,1
+KM,Italy,Tunisia,0,1,0
+LO,Lithuania,Italy,0,2,0
+FR,Italy,Philippines,0,2,0
+R2,Cape Verde,Senegal,0,1,0
+"",Italy,Italy,0,1,0
+PC,Georgia,Turkey,0,1,0
+EI,Germany,Republic of Ireland,1,1,1
+AR,Italy,Uruguay,0,1,0
+ZG,South Korea,Japan,0,1,0
+W6,Spain,Italy,96,78,95
+LH,Germany,Germany,6,2,6
+TP,Spain,Italy,4,12,4
+FR,Italy,United States,0,16,0
+UA,Cuba,United States,1,0,1
+FR,France,Jordan,0,1,0
+OS,Italy,Maldives,1,1,1
+AC,Italy,Mexico,0,4,0
+FR,Netherlands,Republic of Ireland,5,0,5
+BA,Italy,The Bahamas,0,1,0
+NH,United States,Japan,0,1,0
+LO,Italy,India,0,2,0
+TP,Italy,Mexico,6,11,6
+SK,Italy,Sweden,6,16,6
+LH,Germany,United Kingdom,3,1,3
+LH,Italy,Hong Kong,3,15,3
+OU,Croatia,Greece,1,0,1
+DY,Netherlands,Sweden,0,1,0
+LH,United Kingdom,Colombia,1,0,1
+IB,Italy,El Salvador,0,2,0
+AF,Italy,Morocco,3,3,3
+KL,Italy,Malaysia,2,2,2
+LS,United Kingdom,Greece,1,0,1
+FR,Lithuania,Austria,0,1,0
+V7,Italy,Egypt,0,1,0
+W6,Albania,Spain,1,0,1
+Y4,Mexico,Guatemala,0,1,0
+FR,Italy,Lithuania,5,31,5
+BA,Argentina,Italy,2,2,2
+KL,Italy,Luxembourg,1,0,1
+LX,Luxembourg,Italy,7,3,7
+W6,Cyprus,Romania,2,1,2
+U2,Portugal,Czech Republic,2,0,2
+AZ,Italy,Madagascar,0,2,0
+GF,Philippines,Italy,0,1,0
+W6,France,Italy,53,25,52
+VY,Italy,Dominican Republic,0,1,0
+EK,India,Germany,0,4,0
+TP,Cape Verde,France,1,0,1
+LX,Italy,Japan,9,17,9
+AH,Italy,Senegal,0,4,0
+FR,Austria,Poland,2,0,2
+XZ,Romania,Italy,8,2,8
+EW,Italy,Iceland,1,4,1
+KL,Norway,Netherlands,1,0,1
+OS,Italy,Cyprus,2,2,2
+MF,Netherlands,China,0,1,0
+EY,Italy,Sri Lanka,4,5,4
+NT,Morocco,Portugal,0,1,0
+BA,United States,The Bahamas,0,2,0
+AC,Mexico,Italy,0,1,0
+SV,Sudan,Italy,0,2,0
+SV,Austria,Egypt,0,1,0
+SQ,India,Singapore,1,0,1
+CM,Venezuela,Chile,0,1,0
+FR,Denmark,Slovakia,0,1,0
+FR,Finland,Belgium,0,2,0
+FR,Greece,Italy,69,73,68
+W6,Hungary,France,2,1,2
+OS,Italy,Serbia,0,4,0
+TX,France,Saint Barthélemy,0,10,0
+UR,Uganda,Italy,0,1,0
+FR,Italy,Dominican Republic,0,3,0
+EW,Germany,Denmark,1,0,1
+XY,Saudi Arabia,Egypt,1,3,1
+LX,Austria,United States,0,3,0
+SK,United Kingdom,Denmark,0,1,0
+TK,Venezuela,Italy,0,4,0
+LX,Thailand,Italy,5,0,5
+LH,Sweden,Germany,1,6,1
+LH,Slovenia,United States,0,1,0
+TP,Portugal,Mexico,1,1,1
+W6,Italy,,0,45,0
+EK,Italy,Seychelles,7,4,7
+XZ,Italy,Romania,24,0,24
+IB,Argentina,Switzerland,1,0,1
+IB,Italy,Uruguay,10,4,10
+AF,Germany,France,3,0,3
+AZ,Italy,Guam,0,1,0
+FR,Italy,Latvia,0,5,0
+AF,France,,0,4,0
+HV,Netherlands,Spain,4,1,4
+MF,Italy,Peru,0,1,0
+WY,Oman,Oman,1,0,1
+AF,Italy,South Africa,9,3,9
+DL,United States,Dominican Republic,2,0,2
+VY,Denmark,Italy,2,2,2
+VY,Portugal,Spain,4,0,4
+AF,France,Hungary,1,0,1
+AK,Malaysia,Italy,0,1,0
+AF,Spain,France,2,1,2
+BT,Italy,Estonia,1,0,1
+KL,Denmark,Italy,0,1,0
+G8,India,Georgia,0,1,0
+OK,Czech Republic,Malta,0,2,0
+AF,France,Italy,48,52,48
+LH,Germany,Sweden,1,7,1
+AT,Italy,Togo,0,2,0
+U2,Italy,Réunion,0,2,0
+IB,Spain,Germany,0,1,0
+EK,Italy,Sri Lanka,8,9,8
+BX,South Korea,Japan,0,11,0
+FZ,Italy,India,0,1,0
+7C,Japan,South Korea,0,1,0
+PC,Italy,Saudi Arabia,0,1,0
+AF,France,South Korea,1,0,1
+QR,Sweden,Pakistan,0,1,0
+JU,Italy,Maldives,0,1,0
+TK,Nepal,Netherlands,0,1,0
+OM,Japan,Mongolia,0,1,0
+QR,Italy,Maldives,15,51,15
+TK,Italy,Oman,2,2,2
+KU,Italy,Malaysia,0,2,0
+AY,Italy,Iceland,1,12,1
+LA,Chile,Chile,2,10,2
+NO,Mexico,Italy,4,1,4
+TK,Bosnia and Herzegovina,Turkey,0,5,0
+U2,Jersey,Italy,0,2,0
+AA,Mexico,Italy,3,0,3
+PC,Turkey,Georgia,1,0,1
+ET,Japan,South Korea,2,0,2
+QR,Austria,,0,1,0
+TK,Italy,Saudi Arabia,1,1,1
+U2,Italy,Croatia,82,6,81
+QR,Germany,South Korea,0,1,0
+VY,United Kingdom,Italy,17,12,17
+FD,Vietnam,Thailand,0,6,0
+BA,Germany,,0,1,0
+DY,Norway,,0,2,0
+LH,Belgium,Germany,1,0,1
+WY,Bangladesh,Italy,0,1,0
+LY,Germany,Israel,1,1,1
+TR,Malaysia,Greece,0,1,0
+W6,Albania,Malta,0,4,0
+Z2,Philippines,Taiwan,0,1,0
+OG,Italy,Iceland,6,22,6
+FR,Belgium,Spain,4,8,4
+ET,Italy,Benin,0,3,0
+VY,Norway,Morocco,0,2,0
+LH,Italy,Hungary,0,2,0
+AZ,Italy,Armenia,0,1,0
+PC,Kyrgyzstan,Italy,1,0,1
+SV,Saudi Arabia,United Arab Emirates,1,0,1
+PC,Germany,Turkey,3,3,3
+LO,Hungary,Estonia,1,1,1
+FR,Italy,Tunisia,0,5,0
+ME,Lebanon,Italy,2,1,2
+VY,Spain,United Kingdom,3,1,3
+SQ,France,Australia,1,0,1
+U2,Portugal,Spain,5,3,5
+TK,Italy,Vietnam,1,1,1
+6E,India,Turkey,0,1,0
+VY,France,United Kingdom,5,1,5
+FR,Spain,France,6,6,6
+EK,France,Mauritius,0,1,0
+LA,Italy,Colombia,0,6,0
+QR,Italy,Japan,1,1,1
+AZ,France,Brazil,1,1,1
+PC,United Arab Emirates,Italy,1,1,1
+AP,Cape Verde,Italy,0,3,0
+QG,Indonesia,Indonesia,0,2,0
+JU,Croatia,Albania,0,1,0
+W6,United Kingdom,Austria,1,0,1
+AA,Italy,United States,58,0,57
+FR,Italy,Egypt,0,17,0
+QR,Australia,Italy,1,1,1
+LH,Portugal,Germany,1,4,1
+FR,Germany,United Kingdom,2,1,2
+LX,Spain,Germany,1,0,1
+MS,Iraq,Italy,0,1,0
+DY,Germany,Greece,0,1,0
+B6,Haiti,Italy,0,1,0
+LX,United States,Switzerland,2,0,2
+LH,Norway,Italy,1,1,1

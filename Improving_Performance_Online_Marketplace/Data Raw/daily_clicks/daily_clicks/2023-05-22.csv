@@ -1,4 +1,4 @@
-carrier,origin_country,destination_country,clicks_travix,clicks_competitor,clicks_airlines
+carrier,origin_country,destination_country,clicks_client,clicks_competitor,clicks_airlines
 AZ,Italy,Italy,840,1887,832
 FR,Italy,Italy,4455,6699,4411
 AZ,Italy,United States,471,856,466

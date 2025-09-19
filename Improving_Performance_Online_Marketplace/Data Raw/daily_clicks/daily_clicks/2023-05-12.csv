@@ -1,4 +1,4 @@
-carrier,origin_country,destination_country,clicks_travix,clicks_competitor,clicks_airlines
+carrier,origin_country,destination_country,clicks_client,clicks_competitor,clicks_airlines
 AZ,Italy,Italy,1023,1721,1013
 FR,Italy,Italy,3750,5811,3713
 LA,Italy,Brazil,46,54,46
